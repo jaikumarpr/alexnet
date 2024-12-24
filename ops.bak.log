@@ -1,0 +1,848 @@
+
+
+2023-12-02 13:46:18,538 - INFO -  training using device: mps
+2023-12-02 13:46:24,421 - INFO -  starting training epoch 3
+2023-12-02 13:50:15,770 - INFO - epoch 3 -> batch : 1000   train_loss: 3.112 train_accuracy 33.041  time taken 3.856 min
+2023-12-02 13:54:00,726 - INFO - epoch 3 -> batch : 2000   train_loss: 3.114 train_accuracy 33.116  time taken 3.749 min
+2023-12-02 13:57:45,165 - INFO - epoch 3 -> batch : 3000   train_loss: 3.137 train_accuracy 33.061  time taken 3.741 min
+2023-12-02 14:01:29,555 - INFO - epoch 3 -> batch : 4000   train_loss: 3.119 train_accuracy 33.076  time taken 3.740 min
+2023-12-02 14:05:14,607 - INFO - epoch 3 -> batch : 5000   train_loss: 3.101 train_accuracy 33.155  time taken 3.751 min
+2023-12-02 14:09:00,410 - INFO - epoch 3 -> batch : 6000   train_loss: 3.108 train_accuracy 33.201  time taken 3.763 min
+2023-12-02 14:12:44,781 - INFO - epoch 3 -> batch : 7000   train_loss: 3.086 train_accuracy 33.265  time taken 3.739 min
+2023-12-02 14:16:29,486 - INFO - epoch 3 -> batch : 8000   train_loss: 3.077 train_accuracy 33.332  time taken 3.745 min
+2023-12-02 14:20:14,225 - INFO - epoch 3 -> batch : 9000   train_loss: 3.075 train_accuracy 33.389  time taken 3.746 min
+2023-12-02 14:23:58,827 - INFO - epoch 3 -> batch : 10000   train_loss: 3.067 train_accuracy 33.458  time taken 3.743 min
+2023-12-02 14:24:41,277 - INFO - finished training epoch 3, time taken: -38.280923863252006
+2023-12-02 14:24:41,279 - INFO - starting validation for epoch 3
+2023-12-02 14:25:54,909 - INFO - finished validation for epoch 3, time taken: -1.2271535873413086
+2023-12-02 14:25:54,915 - INFO - epoch 3 result: loss: 3.067327393054962 accuracy: 33.45840159791815 valid_loss: 3.247225076646146
+2023-12-02 14:25:54,919 - INFO - saving model for epoch 3
+2023-12-02 14:25:55,863 - INFO - model saved to file : checkpoint-3.pth
+2023-12-02 14:25:55,863 - INFO -  starting training epoch 4
+2023-12-02 14:29:44,932 - INFO - epoch 4 -> batch : 1000   train_loss: 2.917 train_accuracy 36.091  time taken 3.818 min
+2023-12-02 14:33:29,832 - INFO - epoch 4 -> batch : 2000   train_loss: 2.937 train_accuracy 36.047  time taken 3.748 min
+2023-12-02 14:37:14,528 - INFO - epoch 4 -> batch : 3000   train_loss: 2.944 train_accuracy 36.027  time taken 3.745 min
+2023-12-02 14:40:59,523 - INFO - epoch 4 -> batch : 4000   train_loss: 2.945 train_accuracy 35.990  time taken 3.750 min
+2023-12-02 14:44:44,286 - INFO - epoch 4 -> batch : 5000   train_loss: 2.948 train_accuracy 35.934  time taken 3.746 min
+2023-12-02 14:48:29,490 - INFO - epoch 4 -> batch : 6000   train_loss: 2.946 train_accuracy 35.947  time taken 3.753 min
+2023-12-02 14:52:14,323 - INFO - epoch 4 -> batch : 7000   train_loss: 2.950 train_accuracy 35.955  time taken 3.747 min
+2023-12-02 14:55:59,309 - INFO - epoch 4 -> batch : 8000   train_loss: 2.953 train_accuracy 35.966  time taken 3.750 min
+2023-12-02 14:59:45,142 - INFO - epoch 4 -> batch : 9000   train_loss: 2.941 train_accuracy 35.974  time taken 3.764 min
+2023-12-02 15:03:32,610 - INFO - epoch 4 -> batch : 10000   train_loss: 2.938 train_accuracy 35.989  time taken 3.791 min
+2023-12-02 15:04:14,738 - INFO - finished training epoch 4, time taken: -38.314572004477185
+2023-12-02 15:04:14,739 - INFO - starting validation for epoch 4
+2023-12-02 15:05:27,714 - INFO - finished validation for epoch 4, time taken: -1.2162203311920166
+2023-12-02 15:05:27,720 - INFO - epoch 4 result: loss: 2.9383389353752136 accuracy: 35.98804839650101 valid_loss: 3.1225685579392612
+2023-12-02 15:05:27,724 - INFO - saving model for epoch 4
+2023-12-02 15:05:28,605 - INFO - model saved to file : checkpoint-4.pth
+2023-12-02 15:05:28,606 - INFO -  starting training epoch 5
+2023-12-02 15:09:18,327 - INFO - epoch 5 -> batch : 1000   train_loss: 2.787 train_accuracy 38.518  time taken 3.829 min
+2023-12-02 15:13:03,153 - INFO - epoch 5 -> batch : 2000   train_loss: 2.815 train_accuracy 38.265  time taken 3.747 min
+2023-12-02 15:16:49,851 - INFO - epoch 5 -> batch : 3000   train_loss: 2.824 train_accuracy 38.080  time taken 3.778 min
+2023-12-02 15:20:35,493 - INFO - epoch 5 -> batch : 4000   train_loss: 2.842 train_accuracy 37.948  time taken 3.761 min
+2023-12-02 15:24:20,850 - INFO - epoch 5 -> batch : 5000   train_loss: 2.840 train_accuracy 37.880  time taken 3.756 min
+2023-12-02 15:28:06,211 - INFO - epoch 5 -> batch : 6000   train_loss: 2.845 train_accuracy 37.831  time taken 3.756 min
+2023-12-02 15:31:53,851 - INFO - epoch 5 -> batch : 7000   train_loss: 2.846 train_accuracy 37.828  time taken 3.794 min
+2023-12-02 15:35:44,646 - INFO - epoch 5 -> batch : 8000   train_loss: 2.855 train_accuracy 37.791  time taken 3.847 min
+2023-12-02 15:39:31,675 - INFO - epoch 5 -> batch : 9000   train_loss: 2.860 train_accuracy 37.736  time taken 3.784 min
+2023-12-02 15:43:19,507 - INFO - epoch 5 -> batch : 10000   train_loss: 2.843 train_accuracy 37.740  time taken 3.797 min
+2023-12-02 15:44:01,592 - INFO - finished training epoch 5, time taken: -38.54977301756541
+2023-12-02 15:44:01,594 - INFO - starting validation for epoch 5
+2023-12-02 15:45:15,078 - INFO - finished validation for epoch 5, time taken: -1.2247173190116882
+2023-12-02 15:45:15,084 - INFO - epoch 5 result: loss: 2.842972209692001 accuracy: 37.740747303044806 valid_loss: 2.913729731689024
+2023-12-02 15:45:15,088 - INFO - saving model for epoch 5
+2023-12-02 15:45:15,960 - INFO - model saved to file : checkpoint-5.pth
+2023-12-02 15:45:15,961 - INFO -  starting training epoch 6
+2023-12-02 15:49:05,330 - INFO - epoch 6 -> batch : 1000   train_loss: 2.692 train_accuracy 39.866  time taken 3.823 min
+2023-12-02 15:52:50,312 - INFO - epoch 6 -> batch : 2000   train_loss: 2.723 train_accuracy 39.730  time taken 3.750 min
+2023-12-02 15:56:35,527 - INFO - epoch 6 -> batch : 3000   train_loss: 2.740 train_accuracy 39.554  time taken 3.754 min
+2023-12-02 16:00:20,632 - INFO - epoch 6 -> batch : 4000   train_loss: 2.772 train_accuracy 39.363  time taken 3.752 min
+2023-12-02 16:04:05,243 - INFO - epoch 6 -> batch : 5000   train_loss: 2.776 train_accuracy 39.245  time taken 3.743 min
+2023-12-02 16:07:50,007 - INFO - epoch 6 -> batch : 6000   train_loss: 2.778 train_accuracy 39.199  time taken 3.746 min
+2023-12-02 16:11:35,011 - INFO - epoch 6 -> batch : 7000   train_loss: 2.782 train_accuracy 39.112  time taken 3.750 min
+2023-12-02 16:15:20,359 - INFO - epoch 6 -> batch : 8000   train_loss: 2.787 train_accuracy 39.074  time taken 3.756 min
+2023-12-02 16:19:05,324 - INFO - epoch 6 -> batch : 9000   train_loss: 2.784 train_accuracy 39.019  time taken 3.749 min
+2023-12-02 16:22:50,316 - INFO - epoch 6 -> batch : 10000   train_loss: 2.787 train_accuracy 38.993  time taken 3.750 min
+2023-12-02 16:23:32,408 - INFO - finished training epoch 6, time taken: -38.274117235342665
+2023-12-02 16:23:32,410 - INFO - starting validation for epoch 6
+2023-12-02 16:24:45,807 - INFO - finished validation for epoch 6, time taken: -1.2232627153396607
+2023-12-02 16:24:45,812 - INFO - epoch 6 result: loss: 2.7870596845149995 accuracy: 38.99007701572083 valid_loss: 2.8243259468956676
+2023-12-02 16:24:45,816 - INFO - saving model for epoch 6
+2023-12-02 16:24:46,677 - INFO - model saved to file : checkpoint-6.pth
+2023-12-02 16:24:46,677 - INFO -  starting training epoch 7
+2023-12-02 16:28:36,146 - INFO - epoch 7 -> batch : 1000   train_loss: 2.618 train_accuracy 41.284  time taken 3.824 min
+2023-12-02 16:32:21,403 - INFO - epoch 7 -> batch : 2000   train_loss: 2.672 train_accuracy 40.828  time taken 3.754 min
+2023-12-02 16:36:06,332 - INFO - epoch 7 -> batch : 3000   train_loss: 2.688 train_accuracy 40.638  time taken 3.749 min
+2023-12-02 16:39:51,195 - INFO - epoch 7 -> batch : 4000   train_loss: 2.704 train_accuracy 40.457  time taken 3.748 min
+2023-12-02 16:43:36,260 - INFO - epoch 7 -> batch : 5000   train_loss: 2.720 train_accuracy 40.322  time taken 3.751 min
+2023-12-02 16:47:21,085 - INFO - epoch 7 -> batch : 6000   train_loss: 2.719 train_accuracy 40.245  time taken 3.747 min
+2023-12-02 16:51:06,019 - INFO - epoch 7 -> batch : 7000   train_loss: 2.727 train_accuracy 40.127  time taken 3.749 min
+2023-12-02 16:54:50,847 - INFO - epoch 7 -> batch : 8000   train_loss: 2.748 train_accuracy 40.023  time taken 3.747 min
+2023-12-02 16:58:36,254 - INFO - epoch 7 -> batch : 9000   train_loss: 2.735 train_accuracy 39.972  time taken 3.757 min
+2023-12-02 17:02:24,135 - INFO - epoch 7 -> batch : 10000   train_loss: 2.740 train_accuracy 39.937  time taken 3.798 min
+2023-12-02 17:03:06,193 - INFO - finished training epoch 7, time taken: -38.32526321411133
+2023-12-02 17:03:06,195 - INFO - starting validation for epoch 7
+2023-12-02 17:04:20,992 - INFO - finished validation for epoch 7, time taken: -1.2466073632240295
+2023-12-02 17:04:20,999 - INFO - epoch 7 result: loss: 2.740321309804916 accuracy: 39.935308980015876 valid_loss: 2.882666196359698
+2023-12-02 17:04:21,002 - INFO - saving model for epoch 7
+2023-12-02 17:04:21,846 - INFO - model saved to file : checkpoint-7.pth
+2023-12-02 17:04:21,847 - INFO -  starting training epoch 8
+2023-12-02 17:10:57,462 - INFO -  training using device: mps
+2023-12-02 17:11:02,862 - INFO -  starting training epoch 8
+2023-12-02 17:14:52,398 - INFO - epoch 8 -> batch : 1000   train_loss: 2.566 train_accuracy 42.035  time taken 3.826 min
+2023-12-02 17:18:38,546 - INFO - epoch 8 -> batch : 2000   train_loss: 2.617 train_accuracy 41.715  time taken 3.769 min
+2023-12-02 17:22:24,785 - INFO - epoch 8 -> batch : 3000   train_loss: 2.638 train_accuracy 41.490  time taken 3.771 min
+2023-12-02 17:26:10,611 - INFO - epoch 8 -> batch : 4000   train_loss: 2.646 train_accuracy 41.309  time taken 3.764 min
+2023-12-02 17:29:55,907 - INFO - epoch 8 -> batch : 5000   train_loss: 2.669 train_accuracy 41.165  time taken 3.755 min
+2023-12-02 17:33:41,301 - INFO - epoch 8 -> batch : 6000   train_loss: 2.684 train_accuracy 41.012  time taken 3.757 min
+2023-12-02 17:37:26,032 - INFO - epoch 8 -> batch : 7000   train_loss: 2.680 train_accuracy 40.944  time taken 3.745 min
+2023-12-02 17:41:08,473 - INFO - epoch 8 -> batch : 8000   train_loss: 2.696 train_accuracy 40.850  time taken 3.707 min
+2023-12-02 17:44:50,829 - INFO - epoch 8 -> batch : 9000   train_loss: 2.700 train_accuracy 40.788  time taken 3.706 min
+2023-12-02 17:48:33,985 - INFO - epoch 8 -> batch : 10000   train_loss: 2.703 train_accuracy 40.712  time taken 3.719 min
+2023-12-02 17:48:56,399 - INFO - finished training epoch 8, time taken: 37.89228408336639
+2023-12-02 17:48:56,401 - INFO - starting validation for epoch 8
+2023-12-02 17:50:12,124 - INFO - finished validation for epoch 8, time taken: 1.2620470801989236
+2023-12-02 17:50:12,131 - INFO - epoch 8 result: loss: 2.703345815181732 accuracy: 40.711866602870664 valid_loss: 2.8548627625341
+2023-12-02 17:50:12,135 - INFO - saving model for epoch 8
+2023-12-02 17:50:13,056 - INFO - model saved to file : checkpoint-8.pth
+2023-12-02 17:50:13,056 - INFO -  starting training epoch 9
+2023-12-02 17:54:02,217 - INFO - epoch 9 -> batch : 1000   train_loss: 2.550 train_accuracy 42.473  time taken 3.819 min
+2023-12-02 17:57:47,083 - INFO - epoch 9 -> batch : 2000   train_loss: 2.562 train_accuracy 42.404  time taken 3.748 min
+2023-12-02 18:01:31,878 - INFO - epoch 9 -> batch : 3000   train_loss: 2.603 train_accuracy 42.146  time taken 3.747 min
+2023-12-02 18:05:16,747 - INFO - epoch 9 -> batch : 4000   train_loss: 2.622 train_accuracy 41.876  time taken 3.748 min
+2023-12-02 18:09:01,643 - INFO - epoch 9 -> batch : 5000   train_loss: 2.641 train_accuracy 41.731  time taken 3.748 min
+2023-12-02 18:12:46,547 - INFO - epoch 9 -> batch : 6000   train_loss: 2.654 train_accuracy 41.562  time taken 3.748 min
+2023-12-02 18:16:31,498 - INFO - epoch 9 -> batch : 7000   train_loss: 2.643 train_accuracy 41.490  time taken 3.749 min
+2023-12-02 18:20:16,331 - INFO - epoch 9 -> batch : 8000   train_loss: 2.668 train_accuracy 41.373  time taken 3.747 min
+2023-12-02 18:24:01,531 - INFO - epoch 9 -> batch : 9000   train_loss: 2.658 train_accuracy 41.317  time taken 3.753 min
+2023-12-02 18:27:46,426 - INFO - epoch 9 -> batch : 10000   train_loss: 2.670 train_accuracy 41.271  time taken 3.748 min
+2023-12-02 18:28:08,549 - INFO - finished training epoch 9, time taken: 37.92488080263138
+2023-12-02 18:28:08,551 - INFO - starting validation for epoch 9
+2023-12-02 18:29:26,826 - INFO - finished validation for epoch 9, time taken: 1.3045711835225424
+2023-12-02 18:29:26,833 - INFO - epoch 9 result: loss: 2.669873105764389 accuracy: 41.27143455927291 valid_loss: 2.8361117980059456
+2023-12-02 18:29:26,836 - INFO - saving model for epoch 9
+2023-12-02 18:29:27,724 - INFO - model saved to file : checkpoint-9.pth
+2023-12-02 18:29:27,725 - INFO -  starting training epoch 10
+2023-12-02 18:33:16,980 - INFO - epoch 10 -> batch : 1000   train_loss: 2.501 train_accuracy 43.302  time taken 3.821 min
+2023-12-02 18:37:02,105 - INFO - epoch 10 -> batch : 2000   train_loss: 2.546 train_accuracy 42.954  time taken 3.752 min
+2023-12-02 18:40:47,376 - INFO - epoch 10 -> batch : 3000   train_loss: 2.581 train_accuracy 42.667  time taken 3.754 min
+2023-12-02 18:44:32,482 - INFO - epoch 10 -> batch : 4000   train_loss: 2.586 train_accuracy 42.477  time taken 3.752 min
+2023-12-02 18:48:17,520 - INFO - epoch 10 -> batch : 5000   train_loss: 2.607 train_accuracy 42.296  time taken 3.751 min
+2023-12-02 18:52:02,575 - INFO - epoch 10 -> batch : 6000   train_loss: 2.617 train_accuracy 42.182  time taken 3.751 min
+2023-12-02 18:55:47,643 - INFO - epoch 10 -> batch : 7000   train_loss: 2.626 train_accuracy 42.067  time taken 3.751 min
+2023-12-02 18:59:32,628 - INFO - epoch 10 -> batch : 8000   train_loss: 2.634 train_accuracy 41.965  time taken 3.750 min
+2023-12-02 19:03:17,762 - INFO - epoch 10 -> batch : 9000   train_loss: 2.635 train_accuracy 41.887  time taken 3.752 min
+2023-12-02 19:07:02,801 - INFO - epoch 10 -> batch : 10000   train_loss: 2.651 train_accuracy 41.801  time taken 3.751 min
+2023-12-02 19:07:24,928 - INFO - finished training epoch 10, time taken: 37.95337160428365
+2023-12-02 19:07:24,929 - INFO - starting validation for epoch 10
+2023-12-02 19:08:40,585 - INFO - finished validation for epoch 10, time taken: 1.2609111348787942
+2023-12-02 19:08:40,590 - INFO - epoch 10 result: loss: 2.6506642248630525 accuracy: 41.7999370886075 valid_loss: 2.7716346756576575
+2023-12-02 19:08:40,594 - INFO - saving model for epoch 10
+2023-12-02 19:08:41,500 - INFO - model saved to file : checkpoint-10.pth
+2023-12-02 19:08:41,501 - INFO -  starting training epoch 11
+2023-12-02 19:12:30,664 - INFO - epoch 11 -> batch : 1000   train_loss: 2.471 train_accuracy 43.795  time taken 3.819 min
+2023-12-02 19:16:15,650 - INFO - epoch 11 -> batch : 2000   train_loss: 2.518 train_accuracy 43.334  time taken 3.750 min
+2023-12-02 19:20:00,608 - INFO - epoch 11 -> batch : 3000   train_loss: 2.549 train_accuracy 43.099  time taken 3.749 min
+2023-12-02 19:23:45,639 - INFO - epoch 11 -> batch : 4000   train_loss: 2.565 train_accuracy 42.909  time taken 3.750 min
+2023-12-02 19:27:30,582 - INFO - epoch 11 -> batch : 5000   train_loss: 2.584 train_accuracy 42.744  time taken 3.749 min
+2023-12-02 19:31:15,578 - INFO - epoch 11 -> batch : 6000   train_loss: 2.597 train_accuracy 42.612  time taken 3.750 min
+2023-12-02 19:35:00,622 - INFO - epoch 11 -> batch : 7000   train_loss: 2.603 train_accuracy 42.484  time taken 3.751 min
+2023-12-02 19:38:45,586 - INFO - epoch 11 -> batch : 8000   train_loss: 2.604 train_accuracy 42.371  time taken 3.749 min
+2023-12-02 19:42:30,597 - INFO - epoch 11 -> batch : 9000   train_loss: 2.627 train_accuracy 42.286  time taken 3.750 min
+2023-12-02 19:46:15,640 - INFO - epoch 11 -> batch : 10000   train_loss: 2.633 train_accuracy 42.201  time taken 3.751 min
+2023-12-02 19:46:37,783 - INFO - finished training epoch 11, time taken: 37.93802931706111
+2023-12-02 19:46:37,784 - INFO - starting validation for epoch 11
+2023-12-02 19:47:54,022 - INFO - finished validation for epoch 11, time taken: 1.2706101338068645
+2023-12-02 19:47:54,026 - INFO - epoch 11 result: loss: 2.632711112499237 accuracy: 42.19926051794965 valid_loss: 2.756073291954177
+2023-12-02 19:47:54,029 - INFO - saving model for epoch 11
+2023-12-02 19:47:54,969 - INFO - model saved to file : checkpoint-11.pth
+2023-12-02 19:47:54,969 - INFO -  starting training epoch 12
+2023-12-02 19:51:44,114 - INFO - epoch 12 -> batch : 1000   train_loss: 2.459 train_accuracy 44.134  time taken 3.819 min
+2023-12-02 19:55:29,199 - INFO - epoch 12 -> batch : 2000   train_loss: 2.502 train_accuracy 43.755  time taken 3.751 min
+2023-12-02 19:59:13,541 - INFO - epoch 12 -> batch : 3000   train_loss: 2.515 train_accuracy 43.577  time taken 3.739 min
+2023-12-02 20:02:59,174 - INFO - epoch 12 -> batch : 4000   train_loss: 2.554 train_accuracy 43.327  time taken 3.761 min
+2023-12-02 20:06:42,831 - INFO - epoch 12 -> batch : 5000   train_loss: 2.566 train_accuracy 43.158  time taken 3.728 min
+2023-12-02 20:10:27,773 - INFO - epoch 12 -> batch : 6000   train_loss: 2.573 train_accuracy 42.983  time taken 3.749 min
+2023-12-02 20:14:13,042 - INFO - epoch 12 -> batch : 7000   train_loss: 2.594 train_accuracy 42.822  time taken 3.754 min
+2023-12-02 20:17:58,105 - INFO - epoch 12 -> batch : 8000   train_loss: 2.596 train_accuracy 42.707  time taken 3.751 min
+2023-12-02 20:21:42,985 - INFO - epoch 12 -> batch : 9000   train_loss: 2.591 train_accuracy 42.639  time taken 3.748 min
+2023-12-02 20:25:27,962 - INFO - epoch 12 -> batch : 10000   train_loss: 2.593 train_accuracy 42.566  time taken 3.750 min
+2023-12-02 20:25:50,091 - INFO - finished training epoch 12, time taken: 37.91868318716685
+2023-12-02 20:25:50,092 - INFO - starting validation for epoch 12
+2023-12-02 20:27:06,510 - INFO - finished validation for epoch 12, time taken: 1.2736075003941854
+2023-12-02 20:27:06,514 - INFO - epoch 12 result: loss: 2.593358423233032 accuracy: 42.5642402590763 valid_loss: 2.8126386931485228
+2023-12-02 20:27:06,518 - INFO - saving model for epoch 12
+2023-12-02 20:27:07,399 - INFO - model saved to file : checkpoint-12.pth
+2023-12-02 20:27:07,399 - INFO -  starting training epoch 13
+2023-12-02 20:30:55,257 - INFO - epoch 13 -> batch : 1000   train_loss: 2.428 train_accuracy 44.714  time taken 3.798 min
+2023-12-02 20:34:38,418 - INFO - epoch 13 -> batch : 2000   train_loss: 2.484 train_accuracy 44.173  time taken 3.719 min
+2023-12-02 20:38:20,966 - INFO - epoch 13 -> batch : 3000   train_loss: 2.498 train_accuracy 43.916  time taken 3.709 min
+2023-12-02 20:42:03,429 - INFO - epoch 13 -> batch : 4000   train_loss: 2.525 train_accuracy 43.671  time taken 3.708 min
+2023-12-02 20:45:48,482 - INFO - epoch 13 -> batch : 5000   train_loss: 2.552 train_accuracy 43.425  time taken 3.751 min
+2023-12-02 20:49:33,877 - INFO - epoch 13 -> batch : 6000   train_loss: 2.560 train_accuracy 43.240  time taken 3.757 min
+2023-12-02 20:53:19,112 - INFO - epoch 13 -> batch : 7000   train_loss: 2.566 train_accuracy 43.125  time taken 3.754 min
+2023-12-02 20:57:04,198 - INFO - epoch 13 -> batch : 8000   train_loss: 2.585 train_accuracy 42.993  time taken 3.751 min
+2023-12-02 21:00:49,448 - INFO - epoch 13 -> batch : 9000   train_loss: 2.584 train_accuracy 42.897  time taken 3.754 min
+2023-12-02 21:04:34,988 - INFO - epoch 13 -> batch : 10000   train_loss: 2.588 train_accuracy 42.831  time taken 3.759 min
+2023-12-02 21:04:57,125 - INFO - finished training epoch 13, time taken: 37.82875448067983
+2023-12-02 21:04:57,126 - INFO - starting validation for epoch 13
+2023-12-02 21:06:14,421 - INFO - finished validation for epoch 13, time taken: 1.28823535044988
+2023-12-02 21:06:14,427 - INFO - epoch 13 result: loss: 2.588027522087097 accuracy: 42.83196491948357 valid_loss: 2.712112271267435
+2023-12-02 21:06:14,432 - INFO - saving model for epoch 13
+2023-12-02 21:06:15,340 - INFO - model saved to file : checkpoint-13.pth
+2023-12-02 21:06:15,341 - INFO -  starting training epoch 14
+2023-12-02 21:10:04,514 - INFO - epoch 14 -> batch : 1000   train_loss: 2.417 train_accuracy 44.830  time taken 3.820 min
+2023-12-02 21:13:49,575 - INFO - epoch 14 -> batch : 2000   train_loss: 2.468 train_accuracy 44.375  time taken 3.751 min
+2023-12-02 21:17:34,612 - INFO - epoch 14 -> batch : 3000   train_loss: 2.492 train_accuracy 44.126  time taken 3.751 min
+2023-12-02 21:21:19,817 - INFO - epoch 14 -> batch : 4000   train_loss: 2.510 train_accuracy 43.922  time taken 3.753 min
+2023-12-02 21:25:04,848 - INFO - epoch 14 -> batch : 5000   train_loss: 2.528 train_accuracy 43.736  time taken 3.750 min
+2023-12-02 21:28:50,295 - INFO - epoch 14 -> batch : 6000   train_loss: 2.540 train_accuracy 43.593  time taken 3.757 min
+2023-12-02 21:32:35,609 - INFO - epoch 14 -> batch : 7000   train_loss: 2.553 train_accuracy 43.444  time taken 3.755 min
+2023-12-02 21:36:20,730 - INFO - epoch 14 -> batch : 8000   train_loss: 2.568 train_accuracy 43.343  time taken 3.752 min
+2023-12-02 21:40:07,133 - INFO - epoch 14 -> batch : 9000   train_loss: 2.577 train_accuracy 43.217  time taken 3.773 min
+2023-12-02 21:43:53,564 - INFO - epoch 14 -> batch : 10000   train_loss: 2.568 train_accuracy 43.127  time taken 3.774 min
+2023-12-02 21:44:15,694 - INFO - finished training epoch 14, time taken: 38.00588644742966
+2023-12-02 21:44:15,696 - INFO - starting validation for epoch 14
+2023-12-02 21:45:32,672 - INFO - finished validation for epoch 14, time taken: 1.282927668094635
+2023-12-02 21:45:32,679 - INFO - epoch 14 result: loss: 2.567712356686592 accuracy: 43.12825728417919 valid_loss: 2.847329232393933
+2023-12-02 21:45:32,682 - INFO - saving model for epoch 14
+2023-12-02 21:45:33,546 - INFO - model saved to file : checkpoint-14.pth
+2023-12-02 21:45:33,547 - INFO -  starting training epoch 15
+2023-12-02 21:49:22,868 - INFO - epoch 15 -> batch : 1000   train_loss: 2.407 train_accuracy 45.002  time taken 3.822 min
+2023-12-02 21:53:07,784 - INFO - epoch 15 -> batch : 2000   train_loss: 2.439 train_accuracy 44.647  time taken 3.749 min
+2023-12-02 21:56:52,720 - INFO - epoch 15 -> batch : 3000   train_loss: 2.478 train_accuracy 44.431  time taken 3.749 min
+2023-12-02 22:00:37,708 - INFO - epoch 15 -> batch : 4000   train_loss: 2.510 train_accuracy 44.116  time taken 3.750 min
+2023-12-02 22:04:23,051 - INFO - epoch 15 -> batch : 5000   train_loss: 2.520 train_accuracy 43.920  time taken 3.756 min
+2023-12-02 22:08:08,125 - INFO - epoch 15 -> batch : 6000   train_loss: 2.532 train_accuracy 43.782  time taken 3.751 min
+2023-12-02 22:11:53,594 - INFO - epoch 15 -> batch : 7000   train_loss: 2.538 train_accuracy 43.640  time taken 3.758 min
+2023-12-02 22:15:39,110 - INFO - epoch 15 -> batch : 8000   train_loss: 2.558 train_accuracy 43.506  time taken 3.759 min
+2023-12-02 22:19:24,879 - INFO - epoch 15 -> batch : 9000   train_loss: 2.559 train_accuracy 43.405  time taken 3.763 min
+2023-12-02 22:23:10,220 - INFO - epoch 15 -> batch : 10000   train_loss: 2.570 train_accuracy 43.312  time taken 3.756 min
+2023-12-02 22:23:32,356 - INFO - finished training epoch 15, time taken: 37.980142835776014
+2023-12-02 22:23:32,358 - INFO - starting validation for epoch 15
+2023-12-02 22:24:48,205 - INFO - finished validation for epoch 15, time taken: 1.2640980005264282
+2023-12-02 22:24:48,211 - INFO - epoch 15 result: loss: 2.5696242660284043 accuracy: 43.31027883172139 valid_loss: 2.686841450688784
+2023-12-02 22:24:48,215 - INFO - saving model for epoch 15
+2023-12-02 22:24:49,091 - INFO - model saved to file : checkpoint-15.pth
+2023-12-02 22:24:49,091 - INFO -  starting training epoch 16
+2023-12-02 22:28:38,284 - INFO - epoch 16 -> batch : 1000   train_loss: 2.398 train_accuracy 45.086  time taken 3.820 min
+2023-12-02 22:32:23,386 - INFO - epoch 16 -> batch : 2000   train_loss: 2.430 train_accuracy 44.809  time taken 3.752 min
+2023-12-02 22:36:08,422 - INFO - epoch 16 -> batch : 3000   train_loss: 2.458 train_accuracy 44.582  time taken 3.751 min
+2023-12-02 22:39:53,323 - INFO - epoch 16 -> batch : 4000   train_loss: 2.480 train_accuracy 44.365  time taken 3.748 min
+2023-12-02 22:43:38,337 - INFO - epoch 16 -> batch : 5000   train_loss: 2.509 train_accuracy 44.152  time taken 3.750 min
+2023-12-02 22:47:23,416 - INFO - epoch 16 -> batch : 6000   train_loss: 2.520 train_accuracy 43.998  time taken 3.751 min
+2023-12-02 22:51:08,665 - INFO - epoch 16 -> batch : 7000   train_loss: 2.525 train_accuracy 43.875  time taken 3.754 min
+2023-12-02 22:54:53,875 - INFO - epoch 16 -> batch : 8000   train_loss: 2.541 train_accuracy 43.746  time taken 3.753 min
+2023-12-02 22:58:38,915 - INFO - epoch 16 -> batch : 9000   train_loss: 2.549 train_accuracy 43.651  time taken 3.751 min
+2023-12-02 23:02:24,084 - INFO - epoch 16 -> batch : 10000   train_loss: 2.545 train_accuracy 43.574  time taken 3.753 min
+2023-12-02 23:02:46,209 - INFO - finished training epoch 16, time taken: 37.95196421543757
+2023-12-02 23:02:46,211 - INFO - starting validation for epoch 16
+2023-12-02 23:04:02,584 - INFO - finished validation for epoch 16, time taken: 1.2728688995043436
+2023-12-02 23:04:02,589 - INFO - epoch 16 result: loss: 2.545398949146271 accuracy: 43.57503744632823 valid_loss: 2.68196516817488
+2023-12-02 23:04:02,594 - INFO - saving model for epoch 16
+2023-12-02 23:04:03,477 - INFO - model saved to file : checkpoint-16.pth
+2023-12-02 23:04:03,478 - INFO -  starting training epoch 17
+2023-12-02 23:07:53,041 - INFO - epoch 17 -> batch : 1000   train_loss: 2.388 train_accuracy 45.452  time taken 3.826 min
+2023-12-02 23:11:38,385 - INFO - epoch 17 -> batch : 2000   train_loss: 2.423 train_accuracy 45.088  time taken 3.756 min
+2023-12-02 23:15:23,907 - INFO - epoch 17 -> batch : 3000   train_loss: 2.460 train_accuracy 44.746  time taken 3.759 min
+2023-12-02 23:19:09,378 - INFO - epoch 17 -> batch : 4000   train_loss: 2.471 train_accuracy 44.547  time taken 3.758 min
+2023-12-02 23:22:54,700 - INFO - epoch 17 -> batch : 5000   train_loss: 2.488 train_accuracy 44.400  time taken 3.755 min
+2023-12-02 23:26:40,264 - INFO - epoch 17 -> batch : 6000   train_loss: 2.509 train_accuracy 44.212  time taken 3.759 min
+2023-12-02 23:30:25,617 - INFO - epoch 17 -> batch : 7000   train_loss: 2.529 train_accuracy 44.058  time taken 3.756 min
+2023-12-02 23:34:10,746 - INFO - epoch 17 -> batch : 8000   train_loss: 2.526 train_accuracy 43.957  time taken 3.752 min
+2023-12-02 23:37:56,065 - INFO - epoch 17 -> batch : 9000   train_loss: 2.531 train_accuracy 43.866  time taken 3.755 min
+2023-12-02 23:41:41,213 - INFO - epoch 17 -> batch : 10000   train_loss: 2.548 train_accuracy 43.759  time taken 3.752 min
+2023-12-02 23:42:03,348 - INFO - finished training epoch 17, time taken: 37.997836013635
+2023-12-02 23:42:03,350 - INFO - starting validation for epoch 17
+2023-12-02 23:43:19,870 - INFO - finished validation for epoch 17, time taken: 1.2753219683965047
+2023-12-02 23:43:19,874 - INFO - epoch 17 result: loss: 2.548316293478012 accuracy: 43.757605370728406 valid_loss: 2.768151478999106
+2023-12-02 23:43:19,878 - INFO - saving model for epoch 17
+2023-12-02 23:43:20,754 - INFO - model saved to file : checkpoint-17.pth
+2023-12-02 23:43:20,755 - INFO -  starting training epoch 18
+2023-12-02 23:47:10,506 - INFO - epoch 18 -> batch : 1000   train_loss: 2.365 train_accuracy 45.736  time taken 3.829 min
+2023-12-02 23:50:56,027 - INFO - epoch 18 -> batch : 2000   train_loss: 2.406 train_accuracy 45.414  time taken 3.759 min
+2023-12-02 23:54:41,424 - INFO - epoch 18 -> batch : 3000   train_loss: 2.447 train_accuracy 45.081  time taken 3.757 min
+2023-12-02 23:58:26,828 - INFO - epoch 18 -> batch : 4000   train_loss: 2.469 train_accuracy 44.823  time taken 3.757 min
+2023-12-03 00:02:12,409 - INFO - epoch 18 -> batch : 5000   train_loss: 2.484 train_accuracy 44.652  time taken 3.760 min
+2023-12-03 00:05:57,345 - INFO - epoch 18 -> batch : 6000   train_loss: 2.501 train_accuracy 44.462  time taken 3.749 min
+2023-12-03 00:09:42,599 - INFO - epoch 18 -> batch : 7000   train_loss: 2.525 train_accuracy 44.254  time taken 3.754 min
+2023-12-03 00:13:27,762 - INFO - epoch 18 -> batch : 8000   train_loss: 2.516 train_accuracy 44.141  time taken 3.753 min
+2023-12-03 00:17:13,071 - INFO - epoch 18 -> batch : 9000   train_loss: 2.527 train_accuracy 44.025  time taken 3.755 min
+2023-12-03 00:20:58,234 - INFO - epoch 18 -> batch : 10000   train_loss: 2.545 train_accuracy 43.929  time taken 3.753 min
+2023-12-03 00:21:20,365 - INFO - finished training epoch 18, time taken: 37.9935011823972
+2023-12-03 00:21:20,366 - INFO - starting validation for epoch 18
+2023-12-03 00:22:36,528 - INFO - finished validation for epoch 18, time taken: 1.2693335175514222
+2023-12-03 00:22:36,534 - INFO - epoch 18 result: loss: 2.5450354417562484 accuracy: 43.92417225857363 valid_loss: 2.721618394412653
+2023-12-03 00:22:36,538 - INFO - saving model for epoch 18
+2023-12-03 00:22:37,415 - INFO - model saved to file : checkpoint-18.pth
+2023-12-03 00:22:37,416 - INFO -  starting training epoch 19
+2023-12-03 00:26:26,792 - INFO - epoch 19 -> batch : 1000   train_loss: 2.354 train_accuracy 46.173  time taken 3.823 min
+2023-12-03 00:30:11,935 - INFO - epoch 19 -> batch : 2000   train_loss: 2.406 train_accuracy 45.607  time taken 3.752 min
+2023-12-03 00:33:56,932 - INFO - epoch 19 -> batch : 3000   train_loss: 2.448 train_accuracy 45.204  time taken 3.750 min
+2023-12-03 00:37:41,834 - INFO - epoch 19 -> batch : 4000   train_loss: 2.455 train_accuracy 44.960  time taken 3.748 min
+2023-12-03 00:41:27,193 - INFO - epoch 19 -> batch : 5000   train_loss: 2.470 train_accuracy 44.731  time taken 3.756 min
+2023-12-03 00:45:11,944 - INFO - epoch 19 -> batch : 6000   train_loss: 2.492 train_accuracy 44.551  time taken 3.746 min
+2023-12-03 00:48:57,063 - INFO - epoch 19 -> batch : 7000   train_loss: 2.512 train_accuracy 44.368  time taken 3.752 min
+2023-12-03 00:52:42,365 - INFO - epoch 19 -> batch : 8000   train_loss: 2.513 train_accuracy 44.252  time taken 3.755 min
+2023-12-03 00:56:27,860 - INFO - epoch 19 -> batch : 9000   train_loss: 2.524 train_accuracy 44.139  time taken 3.758 min
+2023-12-03 01:00:13,106 - INFO - epoch 19 -> batch : 10000   train_loss: 2.522 train_accuracy 44.041  time taken 3.754 min
+2023-12-03 01:00:35,244 - INFO - finished training epoch 19, time taken: 37.96379781961441
+2023-12-03 01:00:35,245 - INFO - starting validation for epoch 19
+2023-12-03 01:01:51,243 - INFO - finished validation for epoch 19, time taken: 1.266613483428955
+2023-12-03 01:01:51,249 - INFO - epoch 19 result: loss: 2.5220635145902635 accuracy: 44.04094079850636 valid_loss: 2.739461305501211
+2023-12-03 01:01:51,253 - INFO - saving model for epoch 19
+2023-12-03 01:01:52,135 - INFO - model saved to file : checkpoint-19.pth
+2023-12-03 01:01:52,136 - INFO -  starting training epoch 20
+2023-12-03 01:05:41,622 - INFO - epoch 20 -> batch : 1000   train_loss: 2.352 train_accuracy 45.909  time taken 3.825 min
+2023-12-03 01:09:26,913 - INFO - epoch 20 -> batch : 2000   train_loss: 2.397 train_accuracy 45.530  time taken 3.755 min
+2023-12-03 01:13:12,034 - INFO - epoch 20 -> batch : 3000   train_loss: 2.426 train_accuracy 45.279  time taken 3.752 min
+2023-12-03 01:16:56,964 - INFO - epoch 20 -> batch : 4000   train_loss: 2.449 train_accuracy 45.077  time taken 3.749 min
+2023-12-03 01:20:42,194 - INFO - epoch 20 -> batch : 5000   train_loss: 2.470 train_accuracy 44.869  time taken 3.754 min
+2023-12-03 01:24:27,318 - INFO - epoch 20 -> batch : 6000   train_loss: 2.483 train_accuracy 44.696  time taken 3.752 min
+2023-12-03 01:28:12,426 - INFO - epoch 20 -> batch : 7000   train_loss: 2.505 train_accuracy 44.539  time taken 3.752 min
+2023-12-03 01:31:57,715 - INFO - epoch 20 -> batch : 8000   train_loss: 2.504 train_accuracy 44.398  time taken 3.755 min
+2023-12-03 01:35:43,820 - INFO - epoch 20 -> batch : 9000   train_loss: 2.496 train_accuracy 44.325  time taken 3.768 min
+2023-12-03 01:39:27,682 - INFO - epoch 20 -> batch : 10000   train_loss: 2.531 train_accuracy 44.194  time taken 3.731 min
+2023-12-03 01:39:49,781 - INFO - finished training epoch 20, time taken: 37.96075008312861
+2023-12-03 01:39:49,783 - INFO - starting validation for epoch 20
+2023-12-03 01:41:07,453 - INFO - finished validation for epoch 20, time taken: 1.2944918791453044
+2023-12-03 01:41:07,459 - INFO - epoch 20 result: loss: 2.5305293736457823 accuracy: 44.18994557305956 valid_loss: 2.7320782619973887
+2023-12-03 01:41:07,463 - INFO - saving model for epoch 20
+2023-12-03 01:41:08,299 - INFO - model saved to file : checkpoint-20.pth
+2023-12-03 01:41:08,300 - INFO -  starting training epoch 21
+2023-12-03 01:44:55,211 - INFO - epoch 21 -> batch : 1000   train_loss: 2.339 train_accuracy 46.095  time taken 3.782 min
+2023-12-03 01:48:38,305 - INFO - epoch 21 -> batch : 2000   train_loss: 2.386 train_accuracy 45.814  time taken 3.718 min
+2023-12-03 01:52:23,231 - INFO - epoch 21 -> batch : 3000   train_loss: 2.426 train_accuracy 45.438  time taken 3.749 min
+2023-12-03 01:56:08,341 - INFO - epoch 21 -> batch : 4000   train_loss: 2.452 train_accuracy 45.185  time taken 3.752 min
+2023-12-03 01:59:53,343 - INFO - epoch 21 -> batch : 5000   train_loss: 2.472 train_accuracy 44.959  time taken 3.750 min
+2023-12-03 02:03:38,376 - INFO - epoch 21 -> batch : 6000   train_loss: 2.471 train_accuracy 44.795  time taken 3.751 min
+2023-12-03 02:07:23,394 - INFO - epoch 21 -> batch : 7000   train_loss: 2.492 train_accuracy 44.642  time taken 3.750 min
+2023-12-03 02:11:08,365 - INFO - epoch 21 -> batch : 8000   train_loss: 2.502 train_accuracy 44.486  time taken 3.749 min
+2023-12-03 02:14:53,404 - INFO - epoch 21 -> batch : 9000   train_loss: 2.504 train_accuracy 44.395  time taken 3.751 min
+2023-12-03 02:18:38,446 - INFO - epoch 21 -> batch : 10000   train_loss: 2.512 train_accuracy 44.299  time taken 3.751 min
+2023-12-03 02:19:00,577 - INFO - finished training epoch 21, time taken: 37.87128971815109
+2023-12-03 02:19:00,579 - INFO - starting validation for epoch 21
+2023-12-03 02:20:17,165 - INFO - finished validation for epoch 21, time taken: 1.276413631439209
+2023-12-03 02:20:17,171 - INFO - epoch 21 result: loss: 2.511717093348503 accuracy: 44.29734765256988 valid_loss: 2.7109550515099254
+2023-12-03 02:20:17,176 - INFO - saving model for epoch 21
+2023-12-03 02:20:18,053 - INFO - model saved to file : checkpoint-21.pth
+2023-12-03 02:20:18,054 - INFO -  starting training epoch 22
+2023-12-03 02:24:07,461 - INFO - epoch 22 -> batch : 1000   train_loss: 2.338 train_accuracy 46.160  time taken 3.823 min
+2023-12-03 02:27:52,365 - INFO - epoch 22 -> batch : 2000   train_loss: 2.380 train_accuracy 45.789  time taken 3.748 min
+2023-12-03 02:31:37,488 - INFO - epoch 22 -> batch : 3000   train_loss: 2.428 train_accuracy 45.458  time taken 3.752 min
+2023-12-03 02:35:22,298 - INFO - epoch 22 -> batch : 4000   train_loss: 2.436 train_accuracy 45.262  time taken 3.747 min
+2023-12-03 02:39:07,529 - INFO - epoch 22 -> batch : 5000   train_loss: 2.450 train_accuracy 45.090  time taken 3.754 min
+2023-12-03 02:42:52,346 - INFO - epoch 22 -> batch : 6000   train_loss: 2.466 train_accuracy 44.934  time taken 3.747 min
+2023-12-03 02:46:37,237 - INFO - epoch 22 -> batch : 7000   train_loss: 2.486 train_accuracy 44.777  time taken 3.748 min
+2023-12-03 02:50:22,203 - INFO - epoch 22 -> batch : 8000   train_loss: 2.487 train_accuracy 44.656  time taken 3.749 min
+2023-12-03 02:54:07,309 - INFO - epoch 22 -> batch : 9000   train_loss: 2.495 train_accuracy 44.535  time taken 3.752 min
+2023-12-03 02:57:52,153 - INFO - epoch 22 -> batch : 10000   train_loss: 2.506 train_accuracy 44.433  time taken 3.747 min
+2023-12-03 02:58:14,270 - INFO - finished training epoch 22, time taken: 37.93693973223368
+2023-12-03 02:58:14,272 - INFO - starting validation for epoch 22
+2023-12-03 02:59:30,305 - INFO - finished validation for epoch 22, time taken: 1.2672002514203389
+2023-12-03 02:59:30,312 - INFO - epoch 22 result: loss: 2.5058316049575806 accuracy: 44.433083274858 valid_loss: 2.6923960425969584
+2023-12-03 02:59:30,316 - INFO - saving model for epoch 22
+2023-12-03 02:59:31,167 - INFO - model saved to file : checkpoint-22.pth
+2023-12-03 02:59:31,167 - INFO -  starting training epoch 23
+2023-12-03 03:03:20,358 - INFO - epoch 23 -> batch : 1000   train_loss: 2.330 train_accuracy 46.425  time taken 3.820 min
+2023-12-03 03:07:05,325 - INFO - epoch 23 -> batch : 2000   train_loss: 2.368 train_accuracy 46.059  time taken 3.749 min
+2023-12-03 03:10:50,325 - INFO - epoch 23 -> batch : 3000   train_loss: 2.416 train_accuracy 45.640  time taken 3.750 min
+2023-12-03 03:14:35,340 - INFO - epoch 23 -> batch : 4000   train_loss: 2.439 train_accuracy 45.318  time taken 3.750 min
+2023-12-03 03:18:20,298 - INFO - epoch 23 -> batch : 5000   train_loss: 2.440 train_accuracy 45.133  time taken 3.749 min
+2023-12-03 03:22:05,460 - INFO - epoch 23 -> batch : 6000   train_loss: 2.468 train_accuracy 44.972  time taken 3.753 min
+2023-12-03 03:25:50,336 - INFO - epoch 23 -> batch : 7000   train_loss: 2.484 train_accuracy 44.841  time taken 3.748 min
+2023-12-03 03:29:35,220 - INFO - epoch 23 -> batch : 8000   train_loss: 2.478 train_accuracy 44.750  time taken 3.748 min
+2023-12-03 03:33:20,108 - INFO - epoch 23 -> batch : 9000   train_loss: 2.485 train_accuracy 44.654  time taken 3.748 min
+2023-12-03 03:37:05,083 - INFO - epoch 23 -> batch : 10000   train_loss: 2.503 train_accuracy 44.557  time taken 3.750 min
+2023-12-03 03:37:27,210 - INFO - finished training epoch 23, time taken: 37.93404656648636
+2023-12-03 03:37:27,212 - INFO - starting validation for epoch 23
+2023-12-03 03:38:44,582 - INFO - finished validation for epoch 23, time taken: 1.2894825180371603
+2023-12-03 03:38:44,587 - INFO - epoch 23 result: loss: 2.502780293703079 accuracy: 44.55508142185992 valid_loss: 2.581674171530682
+2023-12-03 03:38:44,591 - INFO - saving model for epoch 23
+2023-12-03 03:38:45,504 - INFO - model saved to file : checkpoint-23.pth
+2023-12-03 03:38:45,504 - INFO -  starting training epoch 24
+2023-12-03 03:42:34,462 - INFO - epoch 24 -> batch : 1000   train_loss: 2.335 train_accuracy 46.338  time taken 3.816 min
+2023-12-03 03:46:19,443 - INFO - epoch 24 -> batch : 2000   train_loss: 2.372 train_accuracy 46.026  time taken 3.750 min
+2023-12-03 03:50:04,319 - INFO - epoch 24 -> batch : 3000   train_loss: 2.399 train_accuracy 45.789  time taken 3.748 min
+2023-12-03 03:53:49,193 - INFO - epoch 24 -> batch : 4000   train_loss: 2.427 train_accuracy 45.591  time taken 3.748 min
+2023-12-03 03:57:33,954 - INFO - epoch 24 -> batch : 5000   train_loss: 2.445 train_accuracy 45.336  time taken 3.746 min
+2023-12-03 04:01:18,875 - INFO - epoch 24 -> batch : 6000   train_loss: 2.453 train_accuracy 45.165  time taken 3.749 min
+2023-12-03 04:05:03,433 - INFO - epoch 24 -> batch : 7000   train_loss: 2.464 train_accuracy 45.005  time taken 3.743 min
+2023-12-03 04:08:48,200 - INFO - epoch 24 -> batch : 8000   train_loss: 2.491 train_accuracy 44.854  time taken 3.746 min
+2023-12-03 04:12:32,834 - INFO - epoch 24 -> batch : 9000   train_loss: 2.496 train_accuracy 44.703  time taken 3.744 min
+2023-12-03 04:16:17,810 - INFO - epoch 24 -> batch : 10000   train_loss: 2.497 train_accuracy 44.593  time taken 3.750 min
+2023-12-03 04:16:39,939 - INFO - finished training epoch 24, time taken: 37.90723139842351
+2023-12-03 04:16:39,940 - INFO - starting validation for epoch 24
+2023-12-03 04:17:56,056 - INFO - finished validation for epoch 24, time taken: 1.268574019273122
+2023-12-03 04:17:56,062 - INFO - epoch 24 result: loss: 2.4966010642051697 accuracy: 44.59028370228081 valid_loss: 2.7485106698692303
+2023-12-03 04:17:56,066 - INFO - saving model for epoch 24
+2023-12-03 04:17:56,931 - INFO - model saved to file : checkpoint-24.pth
+2023-12-03 04:17:56,932 - INFO -  starting training epoch 25
+2023-12-03 04:21:46,106 - INFO - epoch 25 -> batch : 1000   train_loss: 2.316 train_accuracy 46.805  time taken 3.820 min
+2023-12-03 04:25:31,256 - INFO - epoch 25 -> batch : 2000   train_loss: 2.370 train_accuracy 46.302  time taken 3.752 min
+2023-12-03 04:29:16,174 - INFO - epoch 25 -> batch : 3000   train_loss: 2.405 train_accuracy 45.976  time taken 3.749 min
+2023-12-03 04:33:01,091 - INFO - epoch 25 -> batch : 4000   train_loss: 2.427 train_accuracy 45.693  time taken 3.749 min
+2023-12-03 04:36:46,033 - INFO - epoch 25 -> batch : 5000   train_loss: 2.437 train_accuracy 45.466  time taken 3.749 min
+2023-12-03 04:40:30,961 - INFO - epoch 25 -> batch : 6000   train_loss: 2.451 train_accuracy 45.277  time taken 3.749 min
+2023-12-03 04:44:15,789 - INFO - epoch 25 -> batch : 7000   train_loss: 2.467 train_accuracy 45.108  time taken 3.747 min
+2023-12-03 04:48:00,693 - INFO - epoch 25 -> batch : 8000   train_loss: 2.477 train_accuracy 44.961  time taken 3.748 min
+2023-12-03 04:51:45,543 - INFO - epoch 25 -> batch : 9000   train_loss: 2.473 train_accuracy 44.871  time taken 3.747 min
+2023-12-03 04:55:30,419 - INFO - epoch 25 -> batch : 10000   train_loss: 2.492 train_accuracy 44.772  time taken 3.748 min
+2023-12-03 04:55:52,544 - INFO - finished training epoch 25, time taken: 37.926872567335764
+2023-12-03 04:55:52,546 - INFO - starting validation for epoch 25
+2023-12-03 04:57:09,930 - INFO - finished validation for epoch 25, time taken: 1.2897117853164672
+2023-12-03 04:57:09,936 - INFO - epoch 25 result: loss: 2.492436103105545 accuracy: 44.770744173085944 valid_loss: 2.611090892111249
+2023-12-03 04:57:09,940 - INFO - saving model for epoch 25
+2023-12-03 04:57:10,827 - INFO - model saved to file : checkpoint-25.pth
+2023-12-03 04:57:10,827 - INFO -  starting training epoch 26
+2023-12-03 05:00:59,978 - INFO - epoch 26 -> batch : 1000   train_loss: 2.313 train_accuracy 46.782  time taken 3.819 min
+2023-12-03 05:04:45,002 - INFO - epoch 26 -> batch : 2000   train_loss: 2.357 train_accuracy 46.342  time taken 3.750 min
+2023-12-03 05:08:30,049 - INFO - epoch 26 -> batch : 3000   train_loss: 2.383 train_accuracy 46.046  time taken 3.751 min
+2023-12-03 05:12:15,122 - INFO - epoch 26 -> batch : 4000   train_loss: 2.411 train_accuracy 45.771  time taken 3.751 min
+2023-12-03 05:16:00,248 - INFO - epoch 26 -> batch : 5000   train_loss: 2.443 train_accuracy 45.539  time taken 3.752 min
+2023-12-03 05:19:45,227 - INFO - epoch 26 -> batch : 6000   train_loss: 2.459 train_accuracy 45.351  time taken 3.750 min
+2023-12-03 05:23:30,401 - INFO - epoch 26 -> batch : 7000   train_loss: 2.458 train_accuracy 45.178  time taken 3.753 min
+2023-12-03 05:27:15,322 - INFO - epoch 26 -> batch : 8000   train_loss: 2.470 train_accuracy 45.046  time taken 3.749 min
+2023-12-03 05:31:00,653 - INFO - epoch 26 -> batch : 9000   train_loss: 2.479 train_accuracy 44.920  time taken 3.755 min
+2023-12-03 05:34:45,626 - INFO - epoch 26 -> batch : 10000   train_loss: 2.487 train_accuracy 44.813  time taken 3.749 min
+2023-12-03 05:35:07,746 - INFO - finished training epoch 26, time taken: 37.94863669872284
+2023-12-03 05:35:07,747 - INFO - starting validation for epoch 26
+2023-12-03 05:36:25,139 - INFO - finished validation for epoch 26, time taken: 1.2898483395576477
+2023-12-03 05:36:25,144 - INFO - epoch 26 result: loss: 2.4869078048467634 accuracy: 44.811800491270844 valid_loss: 2.5996267173601235
+2023-12-03 05:36:25,148 - INFO - saving model for epoch 26
+2023-12-03 05:36:26,004 - INFO - model saved to file : checkpoint-26.pth
+2023-12-03 05:36:26,004 - INFO -  starting training epoch 27
+2023-12-03 05:40:15,226 - INFO - epoch 27 -> batch : 1000   train_loss: 2.310 train_accuracy 46.614  time taken 3.820 min
+2023-12-03 05:44:00,306 - INFO - epoch 27 -> batch : 2000   train_loss: 2.354 train_accuracy 46.247  time taken 3.751 min
+2023-12-03 05:47:45,527 - INFO - epoch 27 -> batch : 3000   train_loss: 2.387 train_accuracy 45.956  time taken 3.754 min
+2023-12-03 05:51:30,710 - INFO - epoch 27 -> batch : 4000   train_loss: 2.418 train_accuracy 45.704  time taken 3.753 min
+2023-12-03 05:55:15,800 - INFO - epoch 27 -> batch : 5000   train_loss: 2.431 train_accuracy 45.529  time taken 3.751 min
+2023-12-03 05:59:00,919 - INFO - epoch 27 -> batch : 6000   train_loss: 2.445 train_accuracy 45.350  time taken 3.752 min
+2023-12-03 06:02:46,041 - INFO - epoch 27 -> batch : 7000   train_loss: 2.452 train_accuracy 45.209  time taken 3.752 min
+2023-12-03 06:06:31,083 - INFO - epoch 27 -> batch : 8000   train_loss: 2.476 train_accuracy 45.058  time taken 3.751 min
+2023-12-03 06:10:16,197 - INFO - epoch 27 -> batch : 9000   train_loss: 2.482 train_accuracy 44.934  time taken 3.752 min
+2023-12-03 06:14:01,286 - INFO - epoch 27 -> batch : 10000   train_loss: 2.483 train_accuracy 44.843  time taken 3.751 min
+2023-12-03 06:14:23,410 - INFO - finished training epoch 27, time taken: 37.956752649943034
+2023-12-03 06:14:23,411 - INFO - starting validation for epoch 27
+2023-12-03 06:15:39,825 - INFO - finished validation for epoch 27, time taken: 1.2735414147377013
+2023-12-03 06:15:39,831 - INFO - epoch 27 result: loss: 2.4831292489767076 accuracy: 44.84388061821761 valid_loss: 2.694317934763096
+2023-12-03 06:15:39,835 - INFO - saving model for epoch 27
+2023-12-03 06:15:40,691 - INFO - model saved to file : checkpoint-27.pth
+2023-12-03 06:15:40,692 - INFO -  starting training epoch 28
+2023-12-03 06:19:30,111 - INFO - epoch 28 -> batch : 1000   train_loss: 2.304 train_accuracy 46.852  time taken 3.824 min
+2023-12-03 06:23:15,199 - INFO - epoch 28 -> batch : 2000   train_loss: 2.360 train_accuracy 46.354  time taken 3.751 min
+2023-12-03 06:27:00,335 - INFO - epoch 28 -> batch : 3000   train_loss: 2.379 train_accuracy 46.109  time taken 3.752 min
+2023-12-03 06:30:45,397 - INFO - epoch 28 -> batch : 4000   train_loss: 2.411 train_accuracy 45.818  time taken 3.751 min
+2023-12-03 06:34:30,607 - INFO - epoch 28 -> batch : 5000   train_loss: 2.429 train_accuracy 45.606  time taken 3.753 min
+2023-12-03 06:38:15,597 - INFO - epoch 28 -> batch : 6000   train_loss: 2.441 train_accuracy 45.441  time taken 3.750 min
+2023-12-03 06:42:00,564 - INFO - epoch 28 -> batch : 7000   train_loss: 2.454 train_accuracy 45.301  time taken 3.749 min
+2023-12-03 06:45:45,541 - INFO - epoch 28 -> batch : 8000   train_loss: 2.452 train_accuracy 45.186  time taken 3.750 min
+2023-12-03 06:49:30,600 - INFO - epoch 28 -> batch : 9000   train_loss: 2.472 train_accuracy 45.059  time taken 3.751 min
+2023-12-03 06:53:15,635 - INFO - epoch 28 -> batch : 10000   train_loss: 2.482 train_accuracy 44.953  time taken 3.751 min
+2023-12-03 06:53:37,774 - INFO - finished training epoch 28, time taken: 37.95137164990107
+2023-12-03 06:53:37,775 - INFO - starting validation for epoch 28
+2023-12-03 06:54:56,056 - INFO - finished validation for epoch 28, time taken: 1.3046648343404135
+2023-12-03 06:54:56,062 - INFO - epoch 28 result: loss: 2.4822508811950685 accuracy: 44.949019136459185 valid_loss: 2.6265732403606403
+2023-12-03 06:54:56,066 - INFO - saving model for epoch 28
+2023-12-03 06:54:56,939 - INFO - model saved to file : checkpoint-28.pth
+2023-12-03 06:54:56,940 - INFO -  starting training epoch 29
+2023-12-03 06:58:45,858 - INFO - epoch 29 -> batch : 1000   train_loss: 2.304 train_accuracy 46.827  time taken 3.815 min
+2023-12-03 07:02:30,759 - INFO - epoch 29 -> batch : 2000   train_loss: 2.348 train_accuracy 46.404  time taken 3.748 min
+2023-12-03 07:06:15,722 - INFO - epoch 29 -> batch : 3000   train_loss: 2.374 train_accuracy 46.173  time taken 3.749 min
+2023-12-03 07:10:00,560 - INFO - epoch 29 -> batch : 4000   train_loss: 2.398 train_accuracy 45.922  time taken 3.747 min
+2023-12-03 07:13:45,415 - INFO - epoch 29 -> batch : 5000   train_loss: 2.432 train_accuracy 45.660  time taken 3.748 min
+2023-12-03 07:17:30,340 - INFO - epoch 29 -> batch : 6000   train_loss: 2.441 train_accuracy 45.468  time taken 3.749 min
+2023-12-03 07:21:15,239 - INFO - epoch 29 -> batch : 7000   train_loss: 2.444 train_accuracy 45.348  time taken 3.748 min
+2023-12-03 07:25:00,079 - INFO - epoch 29 -> batch : 8000   train_loss: 2.451 train_accuracy 45.217  time taken 3.747 min
+2023-12-03 07:28:44,951 - INFO - epoch 29 -> batch : 9000   train_loss: 2.478 train_accuracy 45.083  time taken 3.748 min
+2023-12-03 07:32:29,745 - INFO - epoch 29 -> batch : 10000   train_loss: 2.479 train_accuracy 44.966  time taken 3.747 min
+2023-12-03 07:32:51,887 - INFO - finished training epoch 29, time taken: 37.91578092177709
+2023-12-03 07:32:51,888 - INFO - starting validation for epoch 29
+2023-12-03 07:34:08,570 - INFO - finished validation for epoch 29, time taken: 1.2780179023742675
+2023-12-03 07:34:08,577 - INFO - epoch 29 result: loss: 2.478632250070572 accuracy: 44.96650319591435 valid_loss: 2.6567989206679945
+2023-12-03 07:34:08,581 - INFO - saving model for epoch 29
+2023-12-03 07:34:09,473 - INFO - model saved to file : checkpoint-29.pth
+2023-12-03 07:34:09,473 - INFO -  starting training epoch 30
+2023-12-03 07:37:58,609 - INFO - epoch 30 -> batch : 1000   train_loss: 2.306 train_accuracy 46.710  time taken 3.819 min
+2023-12-03 07:41:43,568 - INFO - epoch 30 -> batch : 2000   train_loss: 2.352 train_accuracy 46.359  time taken 3.749 min
+2023-12-03 07:45:28,558 - INFO - epoch 30 -> batch : 3000   train_loss: 2.372 train_accuracy 46.154  time taken 3.750 min
+2023-12-03 07:49:13,527 - INFO - epoch 30 -> batch : 4000   train_loss: 2.388 train_accuracy 45.989  time taken 3.749 min
+2023-12-03 07:53:00,102 - INFO - epoch 30 -> batch : 5000   train_loss: 2.417 train_accuracy 45.759  time taken 3.776 min
+2023-12-03 07:56:43,582 - INFO - epoch 30 -> batch : 6000   train_loss: 2.422 train_accuracy 45.606  time taken 3.725 min
+2023-12-03 08:00:25,690 - INFO - epoch 30 -> batch : 7000   train_loss: 2.445 train_accuracy 45.475  time taken 3.702 min
+2023-12-03 08:04:08,403 - INFO - epoch 30 -> batch : 8000   train_loss: 2.445 train_accuracy 45.375  time taken 3.712 min
+2023-12-03 08:07:50,295 - INFO - epoch 30 -> batch : 9000   train_loss: 2.471 train_accuracy 45.230  time taken 3.698 min
+2023-12-03 08:11:33,122 - INFO - epoch 30 -> batch : 10000   train_loss: 2.478 train_accuracy 45.127  time taken 3.714 min
+2023-12-03 08:11:55,217 - INFO - finished training epoch 30, time taken: 37.76237994432449
+2023-12-03 08:11:55,223 - INFO - starting validation for epoch 30
+2023-12-03 08:13:13,378 - INFO - finished validation for epoch 30, time taken: 1.3025594154993694
+2023-12-03 08:13:13,384 - INFO - epoch 30 result: loss: 2.4783981860876083 accuracy: 45.12385973101087 valid_loss: 2.6618734082907363
+2023-12-03 08:13:13,388 - INFO - saving model for epoch 30
+2023-12-03 08:13:14,248 - INFO - model saved to file : checkpoint-30.pth
+2023-12-03 08:13:14,249 - INFO -  starting training epoch 31
+2023-12-03 08:36:03,283 - INFO -  training using device: mps
+2023-12-03 08:37:01,674 - INFO -  starting training epoch 31
+2023-12-03 08:40:52,947 - INFO - epoch 31 -> batch : 1000   train_loss: 1.911 train_accuracy 54.860  time taken 3.855 min
+2023-12-03 08:44:40,720 - INFO - epoch 31 -> batch : 2000   train_loss: 1.815 train_accuracy 55.730  time taken 3.796 min
+2023-12-03 08:48:28,887 - INFO - epoch 31 -> batch : 3000   train_loss: 1.791 train_accuracy 56.212  time taken 3.803 min
+2023-12-03 08:52:16,778 - INFO - epoch 31 -> batch : 4000   train_loss: 1.762 train_accuracy 56.601  time taken 3.798 min
+2023-12-03 08:56:04,595 - INFO - epoch 31 -> batch : 5000   train_loss: 1.749 train_accuracy 56.930  time taken 3.797 min
+2023-12-03 08:59:52,304 - INFO - epoch 31 -> batch : 6000   train_loss: 1.731 train_accuracy 57.214  time taken 3.795 min
+2023-12-03 09:03:40,775 - INFO - epoch 31 -> batch : 7000   train_loss: 1.731 train_accuracy 57.383  time taken 3.808 min
+2023-12-03 09:07:29,229 - INFO - epoch 31 -> batch : 8000   train_loss: 1.720 train_accuracy 57.562  time taken 3.808 min
+2023-12-03 09:11:16,902 - INFO - epoch 31 -> batch : 9000   train_loss: 1.715 train_accuracy 57.682  time taken 3.794 min
+2023-12-03 09:15:04,035 - INFO - epoch 31 -> batch : 10000   train_loss: 1.703 train_accuracy 57.796  time taken 3.786 min
+2023-12-03 09:15:26,547 - INFO - finished training epoch 31, time taken: 38.41452953418096
+2023-12-03 09:15:26,548 - INFO - starting validation for epoch 31
+2023-12-03 09:16:44,842 - INFO - finished validation for epoch 31, time taken: 1.3048829158147177
+2023-12-03 09:16:44,847 - INFO - epoch 31 result: loss: 1.7029253962039947 accuracy: 57.796524574860264 valid_loss: 2.047198222726202
+2023-12-03 09:16:44,851 - INFO - saving model for epoch 31
+2023-12-03 09:16:45,769 - INFO - model saved to file : checkpoint-31.pth
+2023-12-03 09:16:45,770 - INFO -  starting training epoch 32
+2023-12-03 09:20:43,347 - INFO - epoch 32 -> batch : 1000   train_loss: 1.614 train_accuracy 60.737  time taken 3.960 min
+2023-12-03 09:24:36,924 - INFO - epoch 32 -> batch : 2000   train_loss: 1.615 train_accuracy 60.729  time taken 3.893 min
+2023-12-03 09:28:30,295 - INFO - epoch 32 -> batch : 3000   train_loss: 1.624 train_accuracy 60.690  time taken 3.889 min
+2023-12-03 09:32:23,838 - INFO - epoch 32 -> batch : 4000   train_loss: 1.618 train_accuracy 60.676  time taken 3.892 min
+2023-12-03 09:36:17,286 - INFO - epoch 32 -> batch : 5000   train_loss: 1.635 train_accuracy 60.588  time taken 3.891 min
+2023-12-03 09:40:10,589 - INFO - epoch 32 -> batch : 6000   train_loss: 1.620 train_accuracy 60.603  time taken 3.888 min
+2023-12-03 09:44:03,920 - INFO - epoch 32 -> batch : 7000   train_loss: 1.630 train_accuracy 60.572  time taken 3.889 min
+2023-12-03 09:47:57,303 - INFO - epoch 32 -> batch : 8000   train_loss: 1.622 train_accuracy 60.574  time taken 3.890 min
+2023-12-03 09:51:49,835 - INFO - epoch 32 -> batch : 9000   train_loss: 1.614 train_accuracy 60.590  time taken 3.875 min
+2023-12-03 09:55:31,987 - INFO - epoch 32 -> batch : 10000   train_loss: 1.631 train_accuracy 60.567  time taken 3.702 min
+2023-12-03 09:55:54,082 - INFO - finished training epoch 32, time taken: 39.13853809833527
+2023-12-03 09:55:54,085 - INFO - starting validation for epoch 32
+2023-12-03 09:57:11,282 - INFO - finished validation for epoch 32, time taken: 1.2866024335225423
+2023-12-03 09:57:11,290 - INFO - epoch 32 result: loss: 1.6310872204303741 accuracy: 60.56813826768875 valid_loss: 2.0101364076594868
+2023-12-03 09:57:11,296 - INFO - saving model for epoch 32
+2023-12-03 09:57:12,214 - INFO - model saved to file : checkpoint-32.pth
+2023-12-03 09:57:12,215 - INFO -  starting training epoch 33
+2023-12-03 10:00:58,750 - INFO - epoch 33 -> batch : 1000   train_loss: 1.535 train_accuracy 62.362  time taken 3.776 min
+2023-12-03 10:04:40,956 - INFO - epoch 33 -> batch : 2000   train_loss: 1.543 train_accuracy 62.279  time taken 3.703 min
+2023-12-03 10:08:33,818 - INFO - epoch 33 -> batch : 3000   train_loss: 1.543 train_accuracy 62.219  time taken 3.881 min
+2023-12-03 10:12:27,600 - INFO - epoch 33 -> batch : 4000   train_loss: 1.547 train_accuracy 62.138  time taken 3.896 min
+2023-12-03 10:16:20,988 - INFO - epoch 33 -> batch : 5000   train_loss: 1.560 train_accuracy 62.050  time taken 3.890 min
+2023-12-03 10:20:09,553 - INFO - epoch 33 -> batch : 6000   train_loss: 1.558 train_accuracy 62.014  time taken 3.809 min
+2023-12-03 10:23:53,534 - INFO - epoch 33 -> batch : 7000   train_loss: 1.562 train_accuracy 61.984  time taken 3.733 min
+2023-12-03 10:27:38,647 - INFO - epoch 33 -> batch : 8000   train_loss: 1.564 train_accuracy 61.938  time taken 3.752 min
+2023-12-03 10:31:22,684 - INFO - epoch 33 -> batch : 9000   train_loss: 1.571 train_accuracy 61.887  time taken 3.734 min
+2023-12-03 10:35:06,961 - INFO - epoch 33 -> batch : 10000   train_loss: 1.571 train_accuracy 61.842  time taken 3.738 min
+2023-12-03 10:35:29,078 - INFO - finished training epoch 33, time taken: 38.2810497323672
+2023-12-03 10:35:29,079 - INFO - starting validation for epoch 33
+2023-12-03 10:36:46,774 - INFO - finished validation for epoch 33, time taken: 1.2948971033096313
+2023-12-03 10:36:46,779 - INFO - epoch 33 result: loss: 1.5705611954927445 accuracy: 61.841508562115635 valid_loss: 2.003429227167993
+2023-12-03 10:36:46,783 - INFO - saving model for epoch 33
+2023-12-03 10:36:47,727 - INFO - model saved to file : checkpoint-33.pth
+2023-12-03 10:36:47,728 - INFO -  starting training epoch 34
+2023-12-03 10:40:34,586 - INFO - epoch 34 -> batch : 1000   train_loss: 1.480 train_accuracy 63.517  time taken 3.781 min
+2023-12-03 10:44:17,127 - INFO - epoch 34 -> batch : 2000   train_loss: 1.485 train_accuracy 63.352  time taken 3.709 min
+2023-12-03 10:47:59,290 - INFO - epoch 34 -> batch : 3000   train_loss: 1.488 train_accuracy 63.263  time taken 3.703 min
+2023-12-03 10:51:42,313 - INFO - epoch 34 -> batch : 4000   train_loss: 1.497 train_accuracy 63.174  time taken 3.717 min
+2023-12-03 10:55:26,167 - INFO - epoch 34 -> batch : 5000   train_loss: 1.520 train_accuracy 63.050  time taken 3.731 min
+2023-12-03 10:59:10,519 - INFO - epoch 34 -> batch : 6000   train_loss: 1.507 train_accuracy 63.020  time taken 3.739 min
+2023-12-03 11:02:55,003 - INFO - epoch 34 -> batch : 7000   train_loss: 1.522 train_accuracy 62.948  time taken 3.741 min
+2023-12-03 11:06:38,941 - INFO - epoch 34 -> batch : 8000   train_loss: 1.516 train_accuracy 62.891  time taken 3.732 min
+2023-12-03 11:10:21,657 - INFO - epoch 34 -> batch : 9000   train_loss: 1.519 train_accuracy 62.837  time taken 3.712 min
+2023-12-03 11:14:05,046 - INFO - epoch 34 -> batch : 10000   train_loss: 1.532 train_accuracy 62.772  time taken 3.723 min
+2023-12-03 11:14:27,159 - INFO - finished training epoch 34, time taken: 37.657176820437115
+2023-12-03 11:14:27,159 - INFO - starting validation for epoch 34
+2023-12-03 11:15:45,297 - INFO - finished validation for epoch 34, time taken: 1.3022775014241537
+2023-12-03 11:15:45,300 - INFO - epoch 34 result: loss: 1.5321324814558028 accuracy: 62.77152002822427 valid_loss: 1.9890048909370246
+2023-12-03 11:15:45,304 - INFO - saving model for epoch 34
+2023-12-03 11:15:46,186 - INFO - model saved to file : checkpoint-34.pth
+2023-12-03 11:15:46,187 - INFO -  starting training epoch 35
+2023-12-03 11:19:34,217 - INFO - epoch 35 -> batch : 1000   train_loss: 1.426 train_accuracy 64.503  time taken 3.800 min
+2023-12-03 11:23:19,097 - INFO - epoch 35 -> batch : 2000   train_loss: 1.450 train_accuracy 64.200  time taken 3.748 min
+2023-12-03 11:27:04,199 - INFO - epoch 35 -> batch : 3000   train_loss: 1.457 train_accuracy 64.067  time taken 3.752 min
+2023-12-03 11:30:49,992 - INFO - epoch 35 -> batch : 4000   train_loss: 1.466 train_accuracy 63.943  time taken 3.763 min
+2023-12-03 11:34:34,249 - INFO - epoch 35 -> batch : 5000   train_loss: 1.464 train_accuracy 63.882  time taken 3.738 min
+2023-12-03 11:38:20,400 - INFO - epoch 35 -> batch : 6000   train_loss: 1.474 train_accuracy 63.793  time taken 3.769 min
+2023-12-03 11:42:06,307 - INFO - epoch 35 -> batch : 7000   train_loss: 1.478 train_accuracy 63.709  time taken 3.765 min
+2023-12-03 11:45:52,204 - INFO - epoch 35 -> batch : 8000   train_loss: 1.483 train_accuracy 63.646  time taken 3.765 min
+2023-12-03 11:49:37,493 - INFO - epoch 35 -> batch : 9000   train_loss: 1.490 train_accuracy 63.589  time taken 3.755 min
+2023-12-03 11:53:22,931 - INFO - epoch 35 -> batch : 10000   train_loss: 1.495 train_accuracy 63.533  time taken 3.757 min
+2023-12-03 11:53:45,054 - INFO - finished training epoch 35, time taken: 37.98111194769542
+2023-12-03 11:53:45,055 - INFO - starting validation for epoch 35
+2023-12-03 11:55:03,165 - INFO - finished validation for epoch 35, time taken: 1.3018159985542297
+2023-12-03 11:55:03,171 - INFO - epoch 35 result: loss: 1.4947560259103776 accuracy: 63.5320766145241 valid_loss: 2.0097477542774755
+2023-12-03 11:55:03,175 - INFO - saving model for epoch 35
+2023-12-03 11:55:04,107 - INFO - model saved to file : checkpoint-35.pth
+2023-12-03 11:55:04,108 - INFO -  starting training epoch 36
+2023-12-03 11:58:53,892 - INFO - epoch 36 -> batch : 1000   train_loss: 1.384 train_accuracy 65.258  time taken 3.830 min
+2023-12-03 12:02:38,680 - INFO - epoch 36 -> batch : 2000   train_loss: 1.406 train_accuracy 64.986  time taken 3.746 min
+2023-12-03 12:06:24,704 - INFO - epoch 36 -> batch : 3000   train_loss: 1.420 train_accuracy 64.774  time taken 3.767 min
+2023-12-03 12:10:10,548 - INFO - epoch 36 -> batch : 4000   train_loss: 1.423 train_accuracy 64.667  time taken 3.764 min
+2023-12-03 12:13:56,084 - INFO - epoch 36 -> batch : 5000   train_loss: 1.431 train_accuracy 64.594  time taken 3.759 min
+2023-12-03 12:17:41,924 - INFO - epoch 36 -> batch : 6000   train_loss: 1.444 train_accuracy 64.451  time taken 3.764 min
+2023-12-03 12:21:27,527 - INFO - epoch 36 -> batch : 7000   train_loss: 1.439 train_accuracy 64.380  time taken 3.760 min
+2023-12-03 12:25:13,582 - INFO - epoch 36 -> batch : 8000   train_loss: 1.452 train_accuracy 64.307  time taken 3.768 min
+2023-12-03 12:28:59,649 - INFO - epoch 36 -> batch : 9000   train_loss: 1.462 train_accuracy 64.220  time taken 3.768 min
+2023-12-03 12:32:45,445 - INFO - epoch 36 -> batch : 10000   train_loss: 1.465 train_accuracy 64.151  time taken 3.763 min
+2023-12-03 12:33:07,580 - INFO - finished training epoch 36, time taken: 38.05787046750387
+2023-12-03 12:33:07,582 - INFO - starting validation for epoch 36
+2023-12-03 12:34:25,456 - INFO - finished validation for epoch 36, time taken: 1.2978765845298768
+2023-12-03 12:34:25,463 - INFO - epoch 36 result: loss: 1.4650890439748765 accuracy: 64.14792138729769 valid_loss: 1.995339307028924
+2023-12-03 12:34:25,467 - INFO - saving model for epoch 36
+2023-12-03 12:34:26,352 - INFO - model saved to file : checkpoint-36.pth
+2023-12-03 12:34:26,352 - INFO -  starting training epoch 37
+2023-12-03 12:38:15,797 - INFO - epoch 37 -> batch : 1000   train_loss: 1.352 train_accuracy 65.733  time taken 3.824 min
+2023-12-03 12:42:00,994 - INFO - epoch 37 -> batch : 2000   train_loss: 1.371 train_accuracy 65.647  time taken 3.753 min
+2023-12-03 12:45:46,286 - INFO - epoch 37 -> batch : 3000   train_loss: 1.385 train_accuracy 65.418  time taken 3.755 min
+2023-12-03 12:49:31,600 - INFO - epoch 37 -> batch : 4000   train_loss: 1.400 train_accuracy 65.261  time taken 3.755 min
+2023-12-03 12:53:16,889 - INFO - epoch 37 -> batch : 5000   train_loss: 1.401 train_accuracy 65.169  time taken 3.755 min
+2023-12-03 12:57:02,161 - INFO - epoch 37 -> batch : 6000   train_loss: 1.419 train_accuracy 65.025  time taken 3.754 min
+2023-12-03 13:00:47,461 - INFO - epoch 37 -> batch : 7000   train_loss: 1.421 train_accuracy 64.931  time taken 3.755 min
+2023-12-03 13:04:32,703 - INFO - epoch 37 -> batch : 8000   train_loss: 1.423 train_accuracy 64.852  time taken 3.754 min
+2023-12-03 13:08:17,997 - INFO - epoch 37 -> batch : 9000   train_loss: 1.424 train_accuracy 64.768  time taken 3.755 min
+2023-12-03 13:12:03,314 - INFO - epoch 37 -> batch : 10000   train_loss: 1.443 train_accuracy 64.680  time taken 3.755 min
+2023-12-03 13:12:25,438 - INFO - finished training epoch 37, time taken: 37.98474803368251
+2023-12-03 13:12:25,439 - INFO - starting validation for epoch 37
+2023-12-03 13:13:43,110 - INFO - finished validation for epoch 37, time taken: 1.2944974303245544
+2023-12-03 13:13:43,117 - INFO - epoch 37 result: loss: 1.4426683121919632 accuracy: 64.67814110104302 valid_loss: 2.0099026047055375
+2023-12-03 13:13:43,121 - INFO - saving model for epoch 37
+2023-12-03 13:13:44,077 - INFO - model saved to file : checkpoint-37.pth
+2023-12-03 13:13:44,077 - INFO -  starting training epoch 38
+2023-12-03 13:16:25,896 - INFO -  training using device: mps
+2023-12-03 13:16:31,134 - INFO -  starting training epoch 38
+2023-12-03 13:17:02,326 - INFO -  training using device: mps
+2023-12-03 13:17:07,508 - INFO -  starting training epoch 38
+2023-12-03 13:20:57,539 - INFO - epoch 38 -> batch : 1000   train_loss: 1.316 train_accuracy 66.395  time taken 3.834 min
+2023-12-03 13:24:43,011 - INFO - epoch 38 -> batch : 2000   train_loss: 1.333 train_accuracy 66.232  time taken 3.758 min
+2023-12-03 13:28:30,010 - INFO - epoch 38 -> batch : 3000   train_loss: 1.356 train_accuracy 66.004  time taken 3.783 min
+2023-12-03 13:32:16,846 - INFO - epoch 38 -> batch : 4000   train_loss: 1.370 train_accuracy 65.811  time taken 3.781 min
+2023-12-03 13:36:02,669 - INFO - epoch 38 -> batch : 5000   train_loss: 1.376 train_accuracy 65.673  time taken 3.764 min
+2023-12-03 13:39:47,534 - INFO - epoch 38 -> batch : 6000   train_loss: 1.377 train_accuracy 65.593  time taken 3.748 min
+2023-12-03 13:43:32,554 - INFO - epoch 38 -> batch : 7000   train_loss: 1.395 train_accuracy 65.468  time taken 3.750 min
+2023-12-03 13:47:17,520 - INFO - epoch 38 -> batch : 8000   train_loss: 1.398 train_accuracy 65.369  time taken 3.749 min
+2023-12-03 13:51:02,491 - INFO - epoch 38 -> batch : 9000   train_loss: 1.408 train_accuracy 65.263  time taken 3.749 min
+2023-12-03 13:54:47,684 - INFO - epoch 38 -> batch : 10000   train_loss: 1.417 train_accuracy 65.176  time taken 3.753 min
+2023-12-03 13:55:10,019 - INFO - finished training epoch 38, time taken: 38.04184830188751
+2023-12-03 13:55:10,021 - INFO - starting validation for epoch 38
+2023-12-03 13:56:28,321 - INFO - finished validation for epoch 38, time taken: 1.3049897829691568
+2023-12-03 13:56:28,328 - INFO - epoch 38 result: loss: 1.4174730039834975 accuracy: 65.1746415572677 valid_loss: 2.0185958430590225
+2023-12-03 13:56:28,332 - INFO - saving model for epoch 38
+2023-12-03 13:56:29,243 - INFO - model saved to file : checkpoint-38.pth
+2023-12-03 13:56:29,244 - INFO -  starting training epoch 39
+2023-12-03 14:00:19,236 - INFO - epoch 39 -> batch : 1000   train_loss: 1.291 train_accuracy 66.943  time taken 3.833 min
+2023-12-03 14:04:05,120 - INFO - epoch 39 -> batch : 2000   train_loss: 1.303 train_accuracy 66.866  time taken 3.765 min
+2023-12-03 14:07:50,074 - INFO - epoch 39 -> batch : 3000   train_loss: 1.325 train_accuracy 66.652  time taken 3.749 min
+2023-12-03 14:11:32,782 - INFO - epoch 39 -> batch : 4000   train_loss: 1.332 train_accuracy 66.443  time taken 3.712 min
+2023-12-03 14:15:17,441 - INFO - epoch 39 -> batch : 5000   train_loss: 1.352 train_accuracy 66.262  time taken 3.744 min
+2023-12-03 14:19:03,136 - INFO - epoch 39 -> batch : 6000   train_loss: 1.354 train_accuracy 66.157  time taken 3.762 min
+2023-12-03 14:22:48,523 - INFO - epoch 39 -> batch : 7000   train_loss: 1.364 train_accuracy 66.037  time taken 3.756 min
+2023-12-03 14:26:33,317 - INFO - epoch 39 -> batch : 8000   train_loss: 1.381 train_accuracy 65.884  time taken 3.747 min
+2023-12-03 14:30:18,175 - INFO - epoch 39 -> batch : 9000   train_loss: 1.387 train_accuracy 65.760  time taken 3.748 min
+2023-12-03 14:34:03,048 - INFO - epoch 39 -> batch : 10000   train_loss: 1.393 train_accuracy 65.654  time taken 3.748 min
+2023-12-03 14:34:25,179 - INFO - finished training epoch 39, time taken: 37.93224128484726
+2023-12-03 14:34:25,180 - INFO - starting validation for epoch 39
+2023-12-03 14:35:42,966 - INFO - finished validation for epoch 39, time taken: 1.2964213649431864
+2023-12-03 14:35:42,973 - INFO - epoch 39 result: loss: 1.3933342836499214 accuracy: 65.65412627705834 valid_loss: 2.04049748502424
+2023-12-03 14:35:42,977 - INFO - saving model for epoch 39
+2023-12-03 14:35:43,834 - INFO - model saved to file : checkpoint-39.pth
+2023-12-03 14:35:43,835 - INFO -  starting training epoch 40
+2023-12-03 14:39:33,031 - INFO - epoch 40 -> batch : 1000   train_loss: 1.266 train_accuracy 67.464  time taken 3.820 min
+2023-12-03 14:43:18,316 - INFO - epoch 40 -> batch : 2000   train_loss: 1.273 train_accuracy 67.329  time taken 3.755 min
+2023-12-03 14:47:03,390 - INFO - epoch 40 -> batch : 3000   train_loss: 1.304 train_accuracy 67.071  time taken 3.751 min
+2023-12-03 14:50:48,575 - INFO - epoch 40 -> batch : 4000   train_loss: 1.312 train_accuracy 66.889  time taken 3.753 min
+2023-12-03 14:54:33,769 - INFO - epoch 40 -> batch : 5000   train_loss: 1.327 train_accuracy 66.717  time taken 3.753 min
+2023-12-03 14:58:19,132 - INFO - epoch 40 -> batch : 6000   train_loss: 1.331 train_accuracy 66.601  time taken 3.756 min
+2023-12-03 15:02:04,411 - INFO - epoch 40 -> batch : 7000   train_loss: 1.352 train_accuracy 66.470  time taken 3.755 min
+2023-12-03 15:05:49,647 - INFO - epoch 40 -> batch : 8000   train_loss: 1.351 train_accuracy 66.356  time taken 3.754 min
+2023-12-03 15:09:34,906 - INFO - epoch 40 -> batch : 9000   train_loss: 1.358 train_accuracy 66.240  time taken 3.754 min
+2023-12-03 15:13:20,032 - INFO - epoch 40 -> batch : 10000   train_loss: 1.377 train_accuracy 66.109  time taken 3.752 min
+2023-12-03 15:13:42,172 - INFO - finished training epoch 40, time taken: 37.9722865819931
+2023-12-03 15:13:42,173 - INFO - starting validation for epoch 40
+2023-12-03 15:14:59,604 - INFO - finished validation for epoch 40, time taken: 1.2904886166254679
+2023-12-03 15:14:59,611 - INFO - epoch 40 result: loss: 1.3770377414822579 accuracy: 66.10816544603475 valid_loss: 2.0543482581063
+2023-12-03 15:14:59,615 - INFO - saving model for epoch 40
+2023-12-03 15:15:00,480 - INFO - model saved to file : checkpoint-40.pth
+2023-12-03 15:15:00,481 - INFO -  starting training epoch 41
+2023-12-03 15:18:49,703 - INFO - epoch 41 -> batch : 1000   train_loss: 1.235 train_accuracy 68.119  time taken 3.820 min
+2023-12-03 15:22:34,879 - INFO - epoch 41 -> batch : 2000   train_loss: 1.253 train_accuracy 67.810  time taken 3.753 min
+2023-12-03 15:26:19,939 - INFO - epoch 41 -> batch : 3000   train_loss: 1.271 train_accuracy 67.589  time taken 3.751 min
+2023-12-03 15:30:05,002 - INFO - epoch 41 -> batch : 4000   train_loss: 1.284 train_accuracy 67.371  time taken 3.751 min
+2023-12-03 15:33:50,042 - INFO - epoch 41 -> batch : 5000   train_loss: 1.296 train_accuracy 67.214  time taken 3.751 min
+2023-12-03 15:37:35,084 - INFO - epoch 41 -> batch : 6000   train_loss: 1.316 train_accuracy 67.043  time taken 3.751 min
+2023-12-03 15:41:20,084 - INFO - epoch 41 -> batch : 7000   train_loss: 1.319 train_accuracy 66.886  time taken 3.750 min
+2023-12-03 15:45:05,163 - INFO - epoch 41 -> batch : 8000   train_loss: 1.331 train_accuracy 66.750  time taken 3.751 min
+2023-12-03 15:48:48,766 - INFO - epoch 41 -> batch : 9000   train_loss: 1.346 train_accuracy 66.618  time taken 3.727 min
+2023-12-03 15:52:31,479 - INFO - epoch 41 -> batch : 10000   train_loss: 1.352 train_accuracy 66.488  time taken 3.712 min
+2023-12-03 15:52:53,525 - INFO - finished training epoch 41, time taken: 37.88406726916631
+2023-12-03 15:52:53,527 - INFO - starting validation for epoch 41
+2023-12-03 15:54:11,366 - INFO - finished validation for epoch 41, time taken: 1.297311286131541
+2023-12-03 15:54:11,372 - INFO - epoch 41 result: loss: 1.351542183637619 accuracy: 66.48789736232669 valid_loss: 2.0788223200746816
+2023-12-03 15:54:11,376 - INFO - saving model for epoch 41
+2023-12-03 15:54:12,218 - INFO - model saved to file : checkpoint-41.pth
+2023-12-03 15:54:12,219 - INFO -  starting training epoch 42
+2023-12-03 16:01:07,828 - INFO -  training using device: mps
+2023-12-03 16:01:13,281 - INFO -  starting training epoch 42
+2023-12-03 16:05:03,713 - INFO - epoch 42 -> batch : 1000   train_loss: 1.216 train_accuracy 68.401  time taken 3.841 min
+2023-12-03 16:08:45,363 - INFO - epoch 42 -> batch : 2000   train_loss: 1.231 train_accuracy 68.172  time taken 3.694 min
+2023-12-03 16:12:27,235 - INFO - epoch 42 -> batch : 3000   train_loss: 1.251 train_accuracy 67.968  time taken 3.698 min
+2023-12-03 16:16:09,053 - INFO - epoch 42 -> batch : 4000   train_loss: 1.264 train_accuracy 67.714  time taken 3.697 min
+2023-12-03 16:19:50,805 - INFO - epoch 42 -> batch : 5000   train_loss: 1.268 train_accuracy 67.577  time taken 3.696 min
+2023-12-03 16:23:35,555 - INFO - epoch 42 -> batch : 6000   train_loss: 1.285 train_accuracy 67.435  time taken 3.746 min
+2023-12-03 16:27:20,222 - INFO - epoch 42 -> batch : 7000   train_loss: 1.297 train_accuracy 67.299  time taken 3.744 min
+2023-12-03 16:31:04,979 - INFO - epoch 42 -> batch : 8000   train_loss: 1.319 train_accuracy 67.145  time taken 3.746 min
+2023-12-03 16:34:49,606 - INFO - epoch 42 -> batch : 9000   train_loss: 1.318 train_accuracy 67.020  time taken 3.744 min
+2023-12-03 16:38:34,423 - INFO - epoch 42 -> batch : 10000   train_loss: 1.337 train_accuracy 66.893  time taken 3.747 min
+2023-12-03 16:38:56,778 - INFO - finished training epoch 42, time taken:  37.725
+2023-12-03 16:38:56,780 - INFO - starting validation for epoch 42
+2023-12-03 16:40:14,654 - INFO - finished validation for epoch 42, time taken: 1.298
+2023-12-03 16:40:14,659 - INFO - epoch 42 result: loss: 1.3371190558075905 accuracy: 66.89127959118522 valid_loss: 2.0989207291542114
+2023-12-03 16:40:14,663 - INFO - saving model for epoch 42
+2023-12-03 16:40:15,576 - INFO - model saved to file : checkpoint-42.pth
+2023-12-03 16:40:15,576 - INFO -  starting training epoch 43
+2023-12-03 16:44:04,771 - INFO - epoch 43 -> batch : 1000   train_loss: 1.183 train_accuracy 68.972  time taken 3.820 min
+2023-12-03 16:47:49,866 - INFO - epoch 43 -> batch : 2000   train_loss: 1.211 train_accuracy 68.642  time taken 3.752 min
+2023-12-03 16:51:34,711 - INFO - epoch 43 -> batch : 3000   train_loss: 1.228 train_accuracy 68.380  time taken 3.747 min
+2023-12-03 16:55:19,801 - INFO - epoch 43 -> batch : 4000   train_loss: 1.248 train_accuracy 68.140  time taken 3.751 min
+2023-12-03 16:59:04,789 - INFO - epoch 43 -> batch : 5000   train_loss: 1.248 train_accuracy 68.016  time taken 3.750 min
+2023-12-03 17:02:50,122 - INFO - epoch 43 -> batch : 6000   train_loss: 1.256 train_accuracy 67.892  time taken 3.756 min
+2023-12-03 17:06:35,055 - INFO - epoch 43 -> batch : 7000   train_loss: 1.284 train_accuracy 67.701  time taken 3.749 min
+2023-12-03 17:10:20,022 - INFO - epoch 43 -> batch : 8000   train_loss: 1.300 train_accuracy 67.523  time taken 3.749 min
+2023-12-03 17:14:04,773 - INFO - epoch 43 -> batch : 9000   train_loss: 1.297 train_accuracy 67.408  time taken 3.746 min
+2023-12-03 17:17:49,761 - INFO - epoch 43 -> batch : 10000   train_loss: 1.313 train_accuracy 67.276  time taken 3.750 min
+2023-12-03 17:18:11,901 - INFO - finished training epoch 43, time taken:  37.939
+2023-12-03 17:18:11,902 - INFO - starting validation for epoch 43
+2023-12-03 17:19:29,486 - INFO - finished validation for epoch 43, time taken: 1.293
+2023-12-03 17:19:29,493 - INFO - epoch 43 result: loss: 1.313474806368351 accuracy: 67.2753044685041 valid_loss: 2.1263452936011507
+2023-12-03 17:19:29,496 - INFO - saving model for epoch 43
+2023-12-03 17:19:30,368 - INFO - model saved to file : checkpoint-43.pth
+2023-12-03 17:19:30,368 - INFO -  starting training epoch 44
+2023-12-03 17:23:19,869 - INFO - epoch 44 -> batch : 1000   train_loss: 1.162 train_accuracy 69.295  time taken 3.825 min
+2023-12-03 17:27:05,036 - INFO - epoch 44 -> batch : 2000   train_loss: 1.192 train_accuracy 69.059  time taken 3.753 min
+2023-12-03 17:30:50,144 - INFO - epoch 44 -> batch : 3000   train_loss: 1.204 train_accuracy 68.810  time taken 3.752 min
+2023-12-03 17:34:35,071 - INFO - epoch 44 -> batch : 4000   train_loss: 1.225 train_accuracy 68.539  time taken 3.749 min
+2023-12-03 17:38:18,827 - INFO - epoch 44 -> batch : 5000   train_loss: 1.236 train_accuracy 68.338  time taken 3.729 min
+2023-12-03 17:42:01,709 - INFO - epoch 44 -> batch : 6000   train_loss: 1.244 train_accuracy 68.198  time taken 3.715 min
+2023-12-03 17:45:44,620 - INFO - epoch 44 -> batch : 7000   train_loss: 1.269 train_accuracy 68.005  time taken 3.715 min
+2023-12-03 17:49:28,917 - INFO - epoch 44 -> batch : 8000   train_loss: 1.278 train_accuracy 67.845  time taken 3.738 min
+2023-12-03 17:53:14,105 - INFO - epoch 44 -> batch : 9000   train_loss: 1.291 train_accuracy 67.679  time taken 3.753 min
+2023-12-03 17:56:59,251 - INFO - epoch 44 -> batch : 10000   train_loss: 1.299 train_accuracy 67.539  time taken 3.752 min
+2023-12-03 17:57:21,373 - INFO - finished training epoch 44, time taken:  37.850
+2023-12-03 17:57:21,375 - INFO - starting validation for epoch 44
+2023-12-03 17:58:39,834 - INFO - finished validation for epoch 44, time taken: 1.308
+2023-12-03 17:58:39,840 - INFO - epoch 44 result: loss: 1.2991870560646057 accuracy: 67.54092167531634 valid_loss: 2.1296260518491117
+2023-12-03 17:58:39,844 - INFO - saving model for epoch 44
+2023-12-03 17:58:40,686 - INFO - model saved to file : checkpoint-44.pth
+2023-12-03 17:58:40,687 - INFO -  starting training epoch 45
+2023-12-03 18:02:29,838 - INFO - epoch 45 -> batch : 1000   train_loss: 1.147 train_accuracy 69.691  time taken 3.819 min
+2023-12-03 18:06:14,783 - INFO - epoch 45 -> batch : 2000   train_loss: 1.163 train_accuracy 69.443  time taken 3.749 min
+2023-12-03 18:09:59,998 - INFO - epoch 45 -> batch : 3000   train_loss: 1.185 train_accuracy 69.136  time taken 3.754 min
+2023-12-03 18:13:44,970 - INFO - epoch 45 -> batch : 4000   train_loss: 1.200 train_accuracy 68.956  time taken 3.750 min
+2023-12-03 18:17:30,129 - INFO - epoch 45 -> batch : 5000   train_loss: 1.215 train_accuracy 68.786  time taken 3.753 min
+2023-12-03 18:21:15,029 - INFO - epoch 45 -> batch : 6000   train_loss: 1.237 train_accuracy 68.581  time taken 3.748 min
+2023-12-03 18:25:00,346 - INFO - epoch 45 -> batch : 7000   train_loss: 1.246 train_accuracy 68.388  time taken 3.755 min
+2023-12-03 18:28:45,422 - INFO - epoch 45 -> batch : 8000   train_loss: 1.259 train_accuracy 68.229  time taken 3.751 min
+2023-12-03 18:32:30,665 - INFO - epoch 45 -> batch : 9000   train_loss: 1.280 train_accuracy 68.042  time taken 3.754 min
+2023-12-03 18:36:15,862 - INFO - epoch 45 -> batch : 10000   train_loss: 1.267 train_accuracy 67.921  time taken 3.753 min
+2023-12-03 18:36:38,000 - INFO - finished training epoch 45, time taken:  37.955
+2023-12-03 18:36:38,002 - INFO - starting validation for epoch 45
+2023-12-03 18:37:56,013 - INFO - finished validation for epoch 45, time taken: 1.300
+2023-12-03 18:37:56,020 - INFO - epoch 45 result: loss: 1.267203536093235 accuracy: 67.91971694556604 valid_loss: 2.109148090147911
+2023-12-03 18:37:56,024 - INFO - saving model for epoch 45
+2023-12-03 18:37:56,892 - INFO - model saved to file : checkpoint-45.pth
+2023-12-03 18:37:56,893 - INFO -  starting training epoch 46
+2023-12-03 18:41:45,792 - INFO - epoch 46 -> batch : 1000   train_loss: 1.116 train_accuracy 70.162  time taken 3.815 min
+2023-12-03 18:45:30,999 - INFO - epoch 46 -> batch : 2000   train_loss: 1.155 train_accuracy 69.753  time taken 3.753 min
+2023-12-03 18:49:15,856 - INFO - epoch 46 -> batch : 3000   train_loss: 1.160 train_accuracy 69.611  time taken 3.748 min
+2023-12-03 18:53:00,806 - INFO - epoch 46 -> batch : 4000   train_loss: 1.186 train_accuracy 69.364  time taken 3.749 min
+2023-12-03 18:56:45,659 - INFO - epoch 46 -> batch : 5000   train_loss: 1.203 train_accuracy 69.131  time taken 3.748 min
+2023-12-03 19:00:30,661 - INFO - epoch 46 -> batch : 6000   train_loss: 1.213 train_accuracy 68.948  time taken 3.750 min
+2023-12-03 19:04:15,616 - INFO - epoch 46 -> batch : 7000   train_loss: 1.230 train_accuracy 68.756  time taken 3.749 min
+2023-12-03 19:08:00,397 - INFO - epoch 46 -> batch : 8000   train_loss: 1.239 train_accuracy 68.592  time taken 3.746 min
+2023-12-03 19:11:45,155 - INFO - epoch 46 -> batch : 9000   train_loss: 1.243 train_accuracy 68.429  time taken 3.746 min
+2023-12-03 19:15:29,964 - INFO - epoch 46 -> batch : 10000   train_loss: 1.261 train_accuracy 68.276  time taken 3.747 min
+2023-12-03 19:15:52,110 - INFO - finished training epoch 46, time taken:  37.920
+2023-12-03 19:15:52,111 - INFO - starting validation for epoch 46
+2023-12-03 19:17:10,752 - INFO - finished validation for epoch 46, time taken: 1.311
+2023-12-03 19:17:10,758 - INFO - epoch 46 result: loss: 1.2606032450199127 accuracy: 68.27384720337005 valid_loss: 2.1642834527413255
+2023-12-03 19:17:10,761 - INFO - saving model for epoch 46
+2023-12-03 19:17:11,668 - INFO - model saved to file : checkpoint-46.pth
+2023-12-03 19:17:11,668 - INFO -  starting training epoch 47
+2023-12-03 19:21:00,658 - INFO - epoch 47 -> batch : 1000   train_loss: 1.104 train_accuracy 70.538  time taken 3.816 min
+2023-12-03 19:24:45,913 - INFO - epoch 47 -> batch : 2000   train_loss: 1.124 train_accuracy 70.251  time taken 3.754 min
+2023-12-03 19:28:30,908 - INFO - epoch 47 -> batch : 3000   train_loss: 1.149 train_accuracy 69.963  time taken 3.750 min
+2023-12-03 19:32:15,868 - INFO - epoch 47 -> batch : 4000   train_loss: 1.170 train_accuracy 69.681  time taken 3.749 min
+2023-12-03 19:36:01,140 - INFO - epoch 47 -> batch : 5000   train_loss: 1.178 train_accuracy 69.474  time taken 3.754 min
+2023-12-03 19:39:46,071 - INFO - epoch 47 -> batch : 6000   train_loss: 1.199 train_accuracy 69.262  time taken 3.749 min
+2023-12-03 19:43:30,829 - INFO - epoch 47 -> batch : 7000   train_loss: 1.212 train_accuracy 69.069  time taken 3.746 min
+2023-12-03 19:47:15,946 - INFO - epoch 47 -> batch : 8000   train_loss: 1.228 train_accuracy 68.883  time taken 3.752 min
+2023-12-03 19:51:00,628 - INFO - epoch 47 -> batch : 9000   train_loss: 1.234 train_accuracy 68.732  time taken 3.745 min
+2023-12-03 19:54:45,269 - INFO - epoch 47 -> batch : 10000   train_loss: 1.254 train_accuracy 68.552  time taken 3.744 min
+2023-12-03 19:55:07,393 - INFO - finished training epoch 47, time taken:  37.929
+2023-12-03 19:55:07,395 - INFO - starting validation for epoch 47
+2023-12-03 19:56:25,262 - INFO - finished validation for epoch 47, time taken: 1.298
+2023-12-03 19:56:25,268 - INFO - epoch 47 result: loss: 1.2537673981189728 accuracy: 68.5526555086105 valid_loss: 2.1473871137175107
+2023-12-03 19:56:25,272 - INFO - saving model for epoch 47
+2023-12-03 19:56:26,136 - INFO - model saved to file : checkpoint-47.pth
+2023-12-03 19:56:26,136 - INFO -  starting training epoch 48
+2023-12-03 20:00:15,158 - INFO - epoch 48 -> batch : 1000   train_loss: 1.075 train_accuracy 71.123  time taken 3.817 min
+2023-12-03 20:04:00,112 - INFO - epoch 48 -> batch : 2000   train_loss: 1.114 train_accuracy 70.683  time taken 3.749 min
+2023-12-03 20:07:44,765 - INFO - epoch 48 -> batch : 3000   train_loss: 1.138 train_accuracy 70.293  time taken 3.744 min
+2023-12-03 20:11:29,839 - INFO - epoch 48 -> batch : 4000   train_loss: 1.151 train_accuracy 70.015  time taken 3.751 min
+2023-12-03 20:15:14,555 - INFO - epoch 48 -> batch : 5000   train_loss: 1.170 train_accuracy 69.743  time taken 3.745 min
+2023-12-03 20:18:59,320 - INFO - epoch 48 -> batch : 6000   train_loss: 1.183 train_accuracy 69.523  time taken 3.746 min
+2023-12-03 20:22:44,185 - INFO - epoch 48 -> batch : 7000   train_loss: 1.196 train_accuracy 69.334  time taken 3.748 min
+2023-12-03 20:26:28,847 - INFO - epoch 48 -> batch : 8000   train_loss: 1.210 train_accuracy 69.127  time taken 3.744 min
+2023-12-03 20:30:13,356 - INFO - epoch 48 -> batch : 9000   train_loss: 1.206 train_accuracy 69.004  time taken 3.742 min
+2023-12-03 20:33:58,253 - INFO - epoch 48 -> batch : 10000   train_loss: 1.226 train_accuracy 68.860  time taken 3.748 min
+2023-12-03 20:34:20,377 - INFO - finished training epoch 48, time taken:  37.904
+2023-12-03 20:34:20,378 - INFO - starting validation for epoch 48
+2023-12-03 20:35:38,023 - INFO - finished validation for epoch 48, time taken: 1.294
+2023-12-03 20:35:38,029 - INFO - epoch 48 result: loss: 1.2260530140399932 accuracy: 68.8585484952391 valid_loss: 2.1630676969542835
+2023-12-03 20:35:38,033 - INFO - saving model for epoch 48
+2023-12-03 20:35:38,888 - INFO - model saved to file : checkpoint-48.pth
+2023-12-03 20:35:38,888 - INFO -  starting training epoch 49
+2023-12-03 20:39:27,922 - INFO - epoch 49 -> batch : 1000   train_loss: 1.063 train_accuracy 71.131  time taken 3.817 min
+2023-12-03 20:43:12,782 - INFO - epoch 49 -> batch : 2000   train_loss: 1.092 train_accuracy 70.856  time taken 3.748 min
+2023-12-03 20:46:57,811 - INFO - epoch 49 -> batch : 3000   train_loss: 1.114 train_accuracy 70.615  time taken 3.750 min
+2023-12-03 20:50:42,891 - INFO - epoch 49 -> batch : 4000   train_loss: 1.131 train_accuracy 70.341  time taken 3.751 min
+2023-12-03 20:54:28,018 - INFO - epoch 49 -> batch : 5000   train_loss: 1.146 train_accuracy 70.150  time taken 3.752 min
+2023-12-03 20:58:13,106 - INFO - epoch 49 -> batch : 6000   train_loss: 1.175 train_accuracy 69.902  time taken 3.751 min
+2023-12-03 21:01:58,070 - INFO - epoch 49 -> batch : 7000   train_loss: 1.187 train_accuracy 69.678  time taken 3.749 min
+2023-12-03 21:05:43,078 - INFO - epoch 49 -> batch : 8000   train_loss: 1.192 train_accuracy 69.505  time taken 3.750 min
+2023-12-03 21:09:27,966 - INFO - epoch 49 -> batch : 9000   train_loss: 1.199 train_accuracy 69.348  time taken 3.748 min
+2023-12-03 21:13:13,216 - INFO - epoch 49 -> batch : 10000   train_loss: 1.226 train_accuracy 69.147  time taken 3.754 min
+2023-12-03 21:13:35,330 - INFO - finished training epoch 49, time taken:  37.941
+2023-12-03 21:13:35,331 - INFO - starting validation for epoch 49
+2023-12-03 21:14:55,144 - INFO - finished validation for epoch 49, time taken: 1.330
+2023-12-03 21:14:55,152 - INFO - epoch 49 result: loss: 1.2263958370685577 accuracy: 69.146176884044 valid_loss: 2.1414029302499484
+2023-12-03 21:14:55,157 - INFO - saving model for epoch 49
+2023-12-03 21:14:56,020 - INFO - model saved to file : checkpoint-49.pth
+2023-12-03 21:14:56,020 - INFO -  starting training epoch 50
+2023-12-03 21:18:46,325 - INFO - epoch 50 -> batch : 1000   train_loss: 1.040 train_accuracy 71.873  time taken 3.838 min
+2023-12-03 21:22:32,229 - INFO - epoch 50 -> batch : 2000   train_loss: 1.077 train_accuracy 71.344  time taken 3.765 min
+2023-12-03 21:26:18,509 - INFO - epoch 50 -> batch : 3000   train_loss: 1.100 train_accuracy 70.984  time taken 3.771 min
+2023-12-03 21:30:04,748 - INFO - epoch 50 -> batch : 4000   train_loss: 1.110 train_accuracy 70.720  time taken 3.771 min
+2023-12-03 21:33:49,952 - INFO - epoch 50 -> batch : 5000   train_loss: 1.140 train_accuracy 70.445  time taken 3.753 min
+2023-12-03 21:37:34,878 - INFO - epoch 50 -> batch : 6000   train_loss: 1.152 train_accuracy 70.234  time taken 3.749 min
+2023-12-03 21:41:20,103 - INFO - epoch 50 -> batch : 7000   train_loss: 1.173 train_accuracy 70.013  time taken 3.754 min
+2023-12-03 21:45:04,984 - INFO - epoch 50 -> batch : 8000   train_loss: 1.179 train_accuracy 69.842  time taken 3.748 min
+2023-12-03 21:48:50,010 - INFO - epoch 50 -> batch : 9000   train_loss: 1.194 train_accuracy 69.651  time taken 3.750 min
+2023-12-03 21:52:35,148 - INFO - epoch 50 -> batch : 10000   train_loss: 1.203 train_accuracy 69.489  time taken 3.752 min
+2023-12-03 21:52:57,278 - INFO - finished training epoch 50, time taken:  38.021
+2023-12-03 21:52:57,279 - INFO - starting validation for epoch 50
+2023-12-03 21:54:15,821 - INFO - finished validation for epoch 50, time taken: 1.309
+2023-12-03 21:54:15,826 - INFO - epoch 50 result: loss: 1.2032966063022614 accuracy: 69.4861013435407 valid_loss: 2.1963772121292857
+2023-12-03 21:54:15,830 - INFO - saving model for epoch 50
+2023-12-03 21:54:16,680 - INFO - model saved to file : checkpoint-50.pth
+2023-12-03 21:54:16,680 - INFO -  starting training epoch 51
+2023-12-03 21:58:06,071 - INFO - epoch 51 -> batch : 1000   train_loss: 1.029 train_accuracy 72.177  time taken 3.823 min
+2023-12-03 22:01:50,953 - INFO - epoch 51 -> batch : 2000   train_loss: 1.052 train_accuracy 71.667  time taken 3.748 min
+2023-12-03 22:05:35,981 - INFO - epoch 51 -> batch : 3000   train_loss: 1.085 train_accuracy 71.298  time taken 3.750 min
+2023-12-03 22:09:20,830 - INFO - epoch 51 -> batch : 4000   train_loss: 1.103 train_accuracy 71.012  time taken 3.747 min
+2023-12-03 22:13:05,892 - INFO - epoch 51 -> batch : 5000   train_loss: 1.114 train_accuracy 70.819  time taken 3.751 min
+2023-12-03 22:16:50,938 - INFO - epoch 51 -> batch : 6000   train_loss: 1.139 train_accuracy 70.573  time taken 3.751 min
+2023-12-03 22:20:36,015 - INFO - epoch 51 -> batch : 7000   train_loss: 1.151 train_accuracy 70.368  time taken 3.751 min
+2023-12-03 22:24:21,100 - INFO - epoch 51 -> batch : 8000   train_loss: 1.171 train_accuracy 70.133  time taken 3.751 min
+2023-12-03 22:28:06,158 - INFO - epoch 51 -> batch : 9000   train_loss: 1.182 train_accuracy 69.925  time taken 3.751 min
+2023-12-03 22:31:50,871 - INFO - epoch 51 -> batch : 10000   train_loss: 1.195 train_accuracy 69.731  time taken 3.745 min
+2023-12-03 22:32:12,989 - INFO - finished training epoch 51, time taken:  37.938
+2023-12-03 22:32:12,990 - INFO - starting validation for epoch 51
+2023-12-03 22:33:31,091 - INFO - finished validation for epoch 51, time taken: 1.302
+2023-12-03 22:33:31,098 - INFO - epoch 51 result: loss: 1.1950108842849732 accuracy: 69.73087817591306 valid_loss: 2.2017951371419766
+2023-12-03 22:33:31,102 - INFO - saving model for epoch 51
+2023-12-03 22:33:31,946 - INFO - model saved to file : checkpoint-51.pth
+2023-12-03 22:33:31,946 - INFO -  starting training epoch 52
+2023-12-10 13:42:44,439 - INFO -  training using device: mps

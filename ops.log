@@ -1,0 +1,618 @@
+2023-12-10 14:32:21,856 - INFO -  training using device: mps
+2023-12-10 14:32:27,386 - INFO -  starting training epoch 0 with lr 0.01
+2023-12-10 14:36:15,608 - INFO - epoch 0 -> batch : 1000   train_loss: 6.863 time taken 3.804 min
+2023-12-10 14:40:01,099 - INFO - epoch 0 -> batch : 2000   train_loss: 6.673 time taken 3.758 min
+2023-12-10 14:43:46,249 - INFO - epoch 0 -> batch : 3000   train_loss: 6.221 time taken 3.752 min
+2023-12-10 14:47:31,300 - INFO - epoch 0 -> batch : 4000   train_loss: 5.773 time taken 3.751 min
+2023-12-10 14:51:16,054 - INFO - epoch 0 -> batch : 5000   train_loss: 5.416 time taken 3.746 min
+2023-12-10 14:55:00,733 - INFO - epoch 0 -> batch : 6000   train_loss: 5.148 time taken 3.745 min
+2023-12-10 14:58:45,430 - INFO - epoch 0 -> batch : 7000   train_loss: 4.921 time taken 3.745 min
+2023-12-10 15:02:32,505 - INFO - epoch 0 -> batch : 8000   train_loss: 4.736 time taken 3.785 min
+2023-12-10 15:06:18,231 - INFO - epoch 0 -> batch : 9000   train_loss: 4.574 time taken 3.762 min
+2023-12-10 15:10:03,769 - INFO - epoch 0 -> batch : 10000   train_loss: 4.426 time taken 3.759 min
+2023-12-10 15:11:49,053 - INFO - epoch 0 result: loss: 5.473891827800533 accuracy: 6.7605550252230975 valid_loss: 4.368775571398722
+2023-12-10 15:11:50,078 - INFO -  starting training epoch 1 with lr 0.01
+2023-12-10 15:15:39,382 - INFO - epoch 1 -> batch : 1000   train_loss: 4.249 time taken 3.822 min
+2023-12-10 15:19:22,020 - INFO - epoch 1 -> batch : 2000   train_loss: 4.157 time taken 3.711 min
+2023-12-10 15:23:04,472 - INFO - epoch 1 -> batch : 3000   train_loss: 4.057 time taken 3.708 min
+2023-12-10 15:26:46,999 - INFO - epoch 1 -> batch : 4000   train_loss: 3.974 time taken 3.709 min
+2023-12-10 15:30:29,558 - INFO - epoch 1 -> batch : 5000   train_loss: 3.894 time taken 3.709 min
+2023-12-10 15:34:12,085 - INFO - epoch 1 -> batch : 6000   train_loss: 3.832 time taken 3.709 min
+2023-12-10 15:37:54,626 - INFO - epoch 1 -> batch : 7000   train_loss: 3.766 time taken 3.709 min
+2023-12-10 15:41:37,130 - INFO - epoch 1 -> batch : 8000   train_loss: 3.697 time taken 3.708 min
+2023-12-10 15:45:21,650 - INFO - epoch 1 -> batch : 9000   train_loss: 3.651 time taken 3.742 min
+2023-12-10 15:49:06,477 - INFO - epoch 1 -> batch : 10000   train_loss: 3.603 time taken 3.747 min
+2023-12-10 15:50:49,850 - INFO - epoch 1 result: loss: 3.8876244864859184 accuracy: 21.787791911593104 valid_loss: 3.6499080298196933
+2023-12-10 15:50:50,779 - INFO -  starting training epoch 2 with lr 0.01
+2023-12-10 15:54:39,855 - INFO - epoch 2 -> batch : 1000   train_loss: 3.458 time taken 3.818 min
+2023-12-10 15:58:24,963 - INFO - epoch 2 -> batch : 2000   train_loss: 3.446 time taken 3.752 min
+2023-12-10 16:02:10,108 - INFO - epoch 2 -> batch : 3000   train_loss: 3.409 time taken 3.752 min
+2023-12-10 16:05:55,696 - INFO - epoch 2 -> batch : 4000   train_loss: 3.394 time taken 3.760 min
+2023-12-10 16:09:40,355 - INFO - epoch 2 -> batch : 5000   train_loss: 3.374 time taken 3.744 min
+2023-12-10 16:13:25,633 - INFO - epoch 2 -> batch : 6000   train_loss: 3.345 time taken 3.755 min
+2023-12-10 16:17:11,055 - INFO - epoch 2 -> batch : 7000   train_loss: 3.320 time taken 3.757 min
+2023-12-10 16:20:56,374 - INFO - epoch 2 -> batch : 8000   train_loss: 3.296 time taken 3.755 min
+2023-12-10 16:24:41,513 - INFO - epoch 2 -> batch : 9000   train_loss: 3.287 time taken 3.752 min
+2023-12-10 16:28:26,710 - INFO - epoch 2 -> batch : 10000   train_loss: 3.252 time taken 3.753 min
+2023-12-10 16:30:09,743 - INFO - epoch 2 result: loss: 3.3579637301194443 accuracy: 29.40553417314058 valid_loss: 3.2889353107003605
+2023-12-10 16:30:10,660 - INFO -  starting training epoch 3 with lr 0.01
+2023-12-10 16:34:00,036 - INFO - epoch 3 -> batch : 1000   train_loss: 3.118 time taken 3.823 min
+2023-12-10 16:37:45,323 - INFO - epoch 3 -> batch : 2000   train_loss: 3.111 time taken 3.755 min
+2023-12-10 16:41:30,501 - INFO - epoch 3 -> batch : 3000   train_loss: 3.098 time taken 3.753 min
+2023-12-10 16:45:15,650 - INFO - epoch 3 -> batch : 4000   train_loss: 3.119 time taken 3.752 min
+2023-12-10 16:49:00,811 - INFO - epoch 3 -> batch : 5000   train_loss: 3.119 time taken 3.753 min
+2023-12-10 16:52:45,856 - INFO - epoch 3 -> batch : 6000   train_loss: 3.097 time taken 3.751 min
+2023-12-10 16:56:30,939 - INFO - epoch 3 -> batch : 7000   train_loss: 3.079 time taken 3.751 min
+2023-12-10 17:00:16,037 - INFO - epoch 3 -> batch : 8000   train_loss: 3.089 time taken 3.752 min
+2023-12-10 17:04:01,099 - INFO - epoch 3 -> batch : 9000   train_loss: 3.076 time taken 3.751 min
+2023-12-10 17:07:46,226 - INFO - epoch 3 -> batch : 10000   train_loss: 3.055 time taken 3.752 min
+2023-12-10 17:09:28,621 - INFO - epoch 3 result: loss: 3.0959654373841565 accuracy: 33.483612987221804 valid_loss: 3.1958203620617955
+2023-12-10 17:09:29,602 - INFO -  starting training epoch 4 with lr 0.01
+2023-12-10 17:13:19,103 - INFO - epoch 4 -> batch : 1000   train_loss: 2.902 time taken 3.825 min
+2023-12-10 17:17:04,944 - INFO - epoch 4 -> batch : 2000   train_loss: 2.923 time taken 3.764 min
+2023-12-10 17:20:47,913 - INFO - epoch 4 -> batch : 3000   train_loss: 2.943 time taken 3.716 min
+2023-12-10 17:24:30,763 - INFO - epoch 4 -> batch : 4000   train_loss: 2.950 time taken 3.714 min
+2023-12-10 17:28:14,393 - INFO - epoch 4 -> batch : 5000   train_loss: 2.941 time taken 3.727 min
+2023-12-10 17:31:59,090 - INFO - epoch 4 -> batch : 6000   train_loss: 2.947 time taken 3.745 min
+2023-12-10 17:35:43,814 - INFO - epoch 4 -> batch : 7000   train_loss: 2.954 time taken 3.745 min
+2023-12-10 17:39:28,427 - INFO - epoch 4 -> batch : 8000   train_loss: 2.949 time taken 3.744 min
+2023-12-10 17:43:13,178 - INFO - epoch 4 -> batch : 9000   train_loss: 2.950 time taken 3.746 min
+2023-12-10 17:46:58,031 - INFO - epoch 4 -> batch : 10000   train_loss: 2.936 time taken 3.748 min
+2023-12-10 17:48:41,363 - INFO - epoch 4 result: loss: 2.9395776951348744 accuracy: 36.066102233354435 valid_loss: 3.129965944973099
+2023-12-10 17:48:42,294 - INFO -  starting training epoch 5 with lr 0.01
+2023-12-10 17:52:31,502 - INFO - epoch 5 -> batch : 1000   train_loss: 2.793 time taken 3.820 min
+2023-12-10 17:56:16,500 - INFO - epoch 5 -> batch : 2000   train_loss: 2.814 time taken 3.750 min
+2023-12-10 18:00:01,497 - INFO - epoch 5 -> batch : 3000   train_loss: 2.821 time taken 3.750 min
+2023-12-10 18:03:46,468 - INFO - epoch 5 -> batch : 4000   train_loss: 2.839 time taken 3.749 min
+2023-12-10 18:07:31,026 - INFO - epoch 5 -> batch : 5000   train_loss: 2.830 time taken 3.743 min
+2023-12-10 18:11:15,957 - INFO - epoch 5 -> batch : 6000   train_loss: 2.854 time taken 3.749 min
+2023-12-10 18:15:00,888 - INFO - epoch 5 -> batch : 7000   train_loss: 2.847 time taken 3.749 min
+2023-12-10 18:18:45,730 - INFO - epoch 5 -> batch : 8000   train_loss: 2.866 time taken 3.747 min
+2023-12-10 18:22:30,590 - INFO - epoch 5 -> batch : 9000   train_loss: 2.857 time taken 3.748 min
+2023-12-10 18:26:15,416 - INFO - epoch 5 -> batch : 10000   train_loss: 2.844 time taken 3.747 min
+2023-12-10 18:27:58,902 - INFO - epoch 5 result: loss: 2.836389108733102 accuracy: 37.74020092618683 valid_loss: 2.883876518825131
+2023-12-10 18:27:59,873 - INFO -  starting training epoch 6 with lr 0.01
+2023-12-10 18:31:48,923 - INFO - epoch 6 -> batch : 1000   train_loss: 2.685 time taken 3.817 min
+2023-12-10 18:35:33,771 - INFO - epoch 6 -> batch : 2000   train_loss: 2.735 time taken 3.747 min
+2023-12-10 18:39:18,489 - INFO - epoch 6 -> batch : 3000   train_loss: 2.745 time taken 3.745 min
+2023-12-10 18:43:03,326 - INFO - epoch 6 -> batch : 4000   train_loss: 2.758 time taken 3.747 min
+2023-12-10 18:46:48,145 - INFO - epoch 6 -> batch : 5000   train_loss: 2.783 time taken 3.747 min
+2023-12-10 18:50:32,975 - INFO - epoch 6 -> batch : 6000   train_loss: 2.783 time taken 3.747 min
+2023-12-10 18:54:17,675 - INFO - epoch 6 -> batch : 7000   train_loss: 2.780 time taken 3.745 min
+2023-12-10 18:58:02,502 - INFO - epoch 6 -> batch : 8000   train_loss: 2.780 time taken 3.747 min
+2023-12-10 19:01:47,273 - INFO - epoch 6 -> batch : 9000   train_loss: 2.785 time taken 3.746 min
+2023-12-10 19:05:32,234 - INFO - epoch 6 -> batch : 10000   train_loss: 2.795 time taken 3.749 min
+2023-12-10 19:07:15,822 - INFO - epoch 6 result: loss: 2.7629280371861262 accuracy: 39.00670248297061 valid_loss: 2.8856466218943484
+2023-12-10 19:07:16,757 - INFO -  starting training epoch 7 with lr 0.01
+2023-12-10 19:11:07,089 - INFO - epoch 7 -> batch : 1000   train_loss: 2.625 time taken 3.839 min
+2023-12-10 19:14:53,040 - INFO - epoch 7 -> batch : 2000   train_loss: 2.664 time taken 3.766 min
+2023-12-10 19:18:38,879 - INFO - epoch 7 -> batch : 3000   train_loss: 2.703 time taken 3.764 min
+2023-12-10 19:22:23,988 - INFO - epoch 7 -> batch : 4000   train_loss: 2.704 time taken 3.752 min
+2023-12-10 19:26:09,017 - INFO - epoch 7 -> batch : 5000   train_loss: 2.716 time taken 3.750 min
+2023-12-10 19:29:54,256 - INFO - epoch 7 -> batch : 6000   train_loss: 2.723 time taken 3.754 min
+2023-12-10 19:33:39,333 - INFO - epoch 7 -> batch : 7000   train_loss: 2.738 time taken 3.751 min
+2023-12-10 19:37:24,760 - INFO - epoch 7 -> batch : 8000   train_loss: 2.731 time taken 3.757 min
+2023-12-10 19:41:09,856 - INFO - epoch 7 -> batch : 9000   train_loss: 2.743 time taken 3.752 min
+2023-12-10 19:44:54,916 - INFO - epoch 7 -> batch : 10000   train_loss: 2.738 time taken 3.751 min
+2023-12-10 19:46:37,301 - INFO - epoch 7 result: loss: 2.708570991386543 accuracy: 39.880827401892184 valid_loss: 2.811846055643028
+2023-12-10 19:46:38,260 - INFO -  starting training epoch 8 with lr 0.01
+2023-12-10 19:50:27,674 - INFO - epoch 8 -> batch : 1000   train_loss: 2.576 time taken 3.824 min
+2023-12-10 19:54:12,865 - INFO - epoch 8 -> batch : 2000   train_loss: 2.632 time taken 3.753 min
+2023-12-10 19:57:57,935 - INFO - epoch 8 -> batch : 3000   train_loss: 2.648 time taken 3.751 min
+2023-12-10 20:01:43,101 - INFO - epoch 8 -> batch : 4000   train_loss: 2.658 time taken 3.753 min
+2023-12-10 20:05:28,183 - INFO - epoch 8 -> batch : 5000   train_loss: 2.680 time taken 3.751 min
+2023-12-10 20:09:13,499 - INFO - epoch 8 -> batch : 6000   train_loss: 2.676 time taken 3.755 min
+2023-12-10 20:12:58,497 - INFO - epoch 8 -> batch : 7000   train_loss: 2.695 time taken 3.750 min
+2023-12-10 20:16:43,587 - INFO - epoch 8 -> batch : 8000   train_loss: 2.699 time taken 3.751 min
+2023-12-10 20:20:28,878 - INFO - epoch 8 -> batch : 9000   train_loss: 2.688 time taken 3.755 min
+2023-12-10 20:24:13,905 - INFO - epoch 8 -> batch : 10000   train_loss: 2.710 time taken 3.750 min
+2023-12-10 20:25:56,922 - INFO - epoch 8 result: loss: 2.6662777344901842 accuracy: 40.590805101910995 valid_loss: 2.817812552537455
+2023-12-10 20:25:57,906 - INFO -  starting training epoch 9 with lr 0.01
+2023-12-10 20:29:48,787 - INFO - epoch 9 -> batch : 1000   train_loss: 2.535 time taken 3.848 min
+2023-12-10 20:33:34,330 - INFO - epoch 9 -> batch : 2000   train_loss: 2.579 time taken 3.759 min
+2023-12-10 20:37:19,649 - INFO - epoch 9 -> batch : 3000   train_loss: 2.597 time taken 3.755 min
+2023-12-10 20:41:04,883 - INFO - epoch 9 -> batch : 4000   train_loss: 2.618 time taken 3.754 min
+2023-12-10 20:44:50,027 - INFO - epoch 9 -> batch : 5000   train_loss: 2.632 time taken 3.752 min
+2023-12-10 20:48:35,211 - INFO - epoch 9 -> batch : 6000   train_loss: 2.651 time taken 3.753 min
+2023-12-10 20:52:20,492 - INFO - epoch 9 -> batch : 7000   train_loss: 2.664 time taken 3.755 min
+2023-12-10 20:56:05,735 - INFO - epoch 9 -> batch : 8000   train_loss: 2.673 time taken 3.754 min
+2023-12-10 20:59:50,984 - INFO - epoch 9 -> batch : 9000   train_loss: 2.669 time taken 3.754 min
+2023-12-10 21:03:36,353 - INFO - epoch 9 -> batch : 10000   train_loss: 2.683 time taken 3.756 min
+2023-12-10 21:05:18,932 - INFO - epoch 9 result: loss: 2.6299894978711893 accuracy: 41.280801019695325 valid_loss: 2.869550248850947
+2023-12-10 21:05:19,852 - INFO -  starting training epoch 10 with lr 0.01
+2023-12-10 21:09:09,475 - INFO - epoch 10 -> batch : 1000   train_loss: 2.517 time taken 3.827 min
+2023-12-10 21:12:54,737 - INFO - epoch 10 -> batch : 2000   train_loss: 2.550 time taken 3.754 min
+2023-12-10 21:16:40,034 - INFO - epoch 10 -> batch : 3000   train_loss: 2.575 time taken 3.755 min
+2023-12-10 21:20:25,459 - INFO - epoch 10 -> batch : 4000   train_loss: 2.594 time taken 3.757 min
+2023-12-10 21:24:10,824 - INFO - epoch 10 -> batch : 5000   train_loss: 2.617 time taken 3.756 min
+2023-12-10 21:27:56,098 - INFO - epoch 10 -> batch : 6000   train_loss: 2.614 time taken 3.755 min
+2023-12-10 21:31:41,703 - INFO - epoch 10 -> batch : 7000   train_loss: 2.635 time taken 3.760 min
+2023-12-10 21:35:26,873 - INFO - epoch 10 -> batch : 8000   train_loss: 2.641 time taken 3.753 min
+2023-12-10 21:39:12,159 - INFO - epoch 10 -> batch : 9000   train_loss: 2.641 time taken 3.755 min
+2023-12-10 21:42:59,233 - INFO - epoch 10 -> batch : 10000   train_loss: 2.643 time taken 3.785 min
+2023-12-10 21:44:44,385 - INFO - epoch 10 result: loss: 2.6026459809664364 accuracy: 41.71876109827993 valid_loss: 2.7380435131394956
+2023-12-10 21:44:45,317 - INFO -  starting training epoch 11 with lr 0.01
+2023-12-10 21:48:35,666 - INFO - epoch 11 -> batch : 1000   train_loss: 2.482 time taken 3.839 min
+2023-12-10 21:52:20,889 - INFO - epoch 11 -> batch : 2000   train_loss: 2.520 time taken 3.754 min
+2023-12-10 21:56:06,084 - INFO - epoch 11 -> batch : 3000   train_loss: 2.548 time taken 3.753 min
+2023-12-10 21:59:51,028 - INFO - epoch 11 -> batch : 4000   train_loss: 2.578 time taken 3.749 min
+2023-12-10 22:03:36,670 - INFO - epoch 11 -> batch : 5000   train_loss: 2.590 time taken 3.761 min
+2023-12-10 22:07:18,706 - INFO - epoch 11 -> batch : 6000   train_loss: 2.590 time taken 3.701 min
+2023-12-10 22:11:00,889 - INFO - epoch 11 -> batch : 7000   train_loss: 2.603 time taken 3.703 min
+2023-12-10 22:14:44,210 - INFO - epoch 11 -> batch : 8000   train_loss: 2.618 time taken 3.722 min
+2023-12-10 22:18:30,129 - INFO - epoch 11 -> batch : 9000   train_loss: 2.619 time taken 3.765 min
+2023-12-10 22:22:15,071 - INFO - epoch 11 -> batch : 10000   train_loss: 2.623 time taken 3.749 min
+2023-12-10 22:23:58,747 - INFO - epoch 11 result: loss: 2.5771411548842202 accuracy: 42.15984333033867 valid_loss: 2.7671871849947878
+2023-12-10 22:23:59,720 - INFO -  starting training epoch 12 with lr 0.01
+2023-12-10 22:27:49,159 - INFO - epoch 12 -> batch : 1000   train_loss: 2.443 time taken 3.824 min
+2023-12-10 22:31:34,354 - INFO - epoch 12 -> batch : 2000   train_loss: 2.498 time taken 3.753 min
+2023-12-10 22:35:19,836 - INFO - epoch 12 -> batch : 3000   train_loss: 2.529 time taken 3.758 min
+2023-12-10 22:39:06,840 - INFO - epoch 12 -> batch : 4000   train_loss: 2.548 time taken 3.783 min
+2023-12-10 22:42:53,137 - INFO - epoch 12 -> batch : 5000   train_loss: 2.565 time taken 3.772 min
+2023-12-10 22:46:39,297 - INFO - epoch 12 -> batch : 6000   train_loss: 2.573 time taken 3.769 min
+2023-12-10 22:50:24,542 - INFO - epoch 12 -> batch : 7000   train_loss: 2.595 time taken 3.754 min
+2023-12-10 22:54:09,762 - INFO - epoch 12 -> batch : 8000   train_loss: 2.599 time taken 3.754 min
+2023-12-10 22:57:52,716 - INFO - epoch 12 -> batch : 9000   train_loss: 2.602 time taken 3.716 min
+2023-12-10 23:01:35,876 - INFO - epoch 12 -> batch : 10000   train_loss: 2.620 time taken 3.719 min
+2023-12-10 23:03:18,878 - INFO - epoch 12 result: loss: 2.5571621691192186 accuracy: 42.46604853231467 valid_loss: 2.8200124523523824
+2023-12-10 23:03:19,796 - INFO -  starting training epoch 13 with lr 0.01
+2023-12-10 23:07:09,709 - INFO - epoch 13 -> batch : 1000   train_loss: 2.445 time taken 3.832 min
+2023-12-10 23:10:55,362 - INFO - epoch 13 -> batch : 2000   train_loss: 2.477 time taken 3.761 min
+2023-12-10 23:14:40,833 - INFO - epoch 13 -> batch : 3000   train_loss: 2.511 time taken 3.758 min
+2023-12-10 23:18:26,234 - INFO - epoch 13 -> batch : 4000   train_loss: 2.529 time taken 3.757 min
+2023-12-10 23:22:11,541 - INFO - epoch 13 -> batch : 5000   train_loss: 2.533 time taken 3.755 min
+2023-12-10 23:25:56,914 - INFO - epoch 13 -> batch : 6000   train_loss: 2.566 time taken 3.756 min
+2023-12-10 23:29:42,358 - INFO - epoch 13 -> batch : 7000   train_loss: 2.578 time taken 3.757 min
+2023-12-10 23:33:27,713 - INFO - epoch 13 -> batch : 8000   train_loss: 2.567 time taken 3.756 min
+2023-12-10 23:37:13,205 - INFO - epoch 13 -> batch : 9000   train_loss: 2.584 time taken 3.758 min
+2023-12-10 23:40:58,568 - INFO - epoch 13 -> batch : 10000   train_loss: 2.590 time taken 3.756 min
+2023-12-10 23:42:40,996 - INFO - epoch 13 result: loss: 2.5381157085850283 accuracy: 42.8781727909008 valid_loss: 2.7644783633444314
+2023-12-10 23:42:41,922 - INFO -  starting training epoch 14 with lr 0.01
+2023-12-10 23:46:31,649 - INFO - epoch 14 -> batch : 1000   train_loss: 2.427 time taken 3.829 min
+2023-12-10 23:50:17,102 - INFO - epoch 14 -> batch : 2000   train_loss: 2.461 time taken 3.758 min
+2023-12-10 23:54:03,038 - INFO - epoch 14 -> batch : 3000   train_loss: 2.493 time taken 3.766 min
+2023-12-10 23:57:48,199 - INFO - epoch 14 -> batch : 4000   train_loss: 2.521 time taken 3.753 min
+2023-12-11 00:01:33,541 - INFO - epoch 14 -> batch : 5000   train_loss: 2.527 time taken 3.756 min
+2023-12-11 00:05:18,634 - INFO - epoch 14 -> batch : 6000   train_loss: 2.540 time taken 3.752 min
+2023-12-11 00:09:03,858 - INFO - epoch 14 -> batch : 7000   train_loss: 2.548 time taken 3.754 min
+2023-12-11 00:12:49,003 - INFO - epoch 14 -> batch : 8000   train_loss: 2.557 time taken 3.752 min
+2023-12-11 00:16:34,389 - INFO - epoch 14 -> batch : 9000   train_loss: 2.576 time taken 3.756 min
+2023-12-11 00:20:19,616 - INFO - epoch 14 -> batch : 10000   train_loss: 2.578 time taken 3.754 min
+2023-12-11 00:22:03,089 - INFO - epoch 14 result: loss: 2.522882644494216 accuracy: 43.117017531672296 valid_loss: 2.6523743279449774
+2023-12-11 00:22:04,009 - INFO -  starting training epoch 15 with lr 0.01
+2023-12-11 00:25:53,745 - INFO - epoch 15 -> batch : 1000   train_loss: 2.407 time taken 3.829 min
+2023-12-11 00:29:39,444 - INFO - epoch 15 -> batch : 2000   train_loss: 2.453 time taken 3.762 min
+2023-12-11 00:33:24,936 - INFO - epoch 15 -> batch : 3000   train_loss: 2.484 time taken 3.758 min
+2023-12-11 00:37:10,308 - INFO - epoch 15 -> batch : 4000   train_loss: 2.508 time taken 3.756 min
+2023-12-11 00:40:55,724 - INFO - epoch 15 -> batch : 5000   train_loss: 2.508 time taken 3.757 min
+2023-12-11 00:44:41,127 - INFO - epoch 15 -> batch : 6000   train_loss: 2.528 time taken 3.757 min
+2023-12-11 00:48:26,465 - INFO - epoch 15 -> batch : 7000   train_loss: 2.541 time taken 3.756 min
+2023-12-11 00:52:11,935 - INFO - epoch 15 -> batch : 8000   train_loss: 2.553 time taken 3.758 min
+2023-12-11 00:55:57,388 - INFO - epoch 15 -> batch : 9000   train_loss: 2.552 time taken 3.758 min
+2023-12-11 00:59:42,682 - INFO - epoch 15 -> batch : 10000   train_loss: 2.567 time taken 3.755 min
+2023-12-11 01:01:25,478 - INFO - epoch 15 result: loss: 2.509971850985414 accuracy: 43.30973245486342 valid_loss: 2.6930115802208787
+2023-12-11 01:01:26,382 - INFO -  starting training epoch 16 with lr 0.01
+2023-12-11 01:05:15,926 - INFO - epoch 16 -> batch : 1000   train_loss: 2.402 time taken 3.826 min
+2023-12-11 01:09:01,155 - INFO - epoch 16 -> batch : 2000   train_loss: 2.423 time taken 3.754 min
+2023-12-11 01:12:46,614 - INFO - epoch 16 -> batch : 3000   train_loss: 2.467 time taken 3.758 min
+2023-12-11 01:16:31,986 - INFO - epoch 16 -> batch : 4000   train_loss: 2.483 time taken 3.756 min
+2023-12-11 01:20:17,485 - INFO - epoch 16 -> batch : 5000   train_loss: 2.512 time taken 3.758 min
+2023-12-11 01:24:02,834 - INFO - epoch 16 -> batch : 6000   train_loss: 2.512 time taken 3.756 min
+2023-12-11 01:27:48,329 - INFO - epoch 16 -> batch : 7000   train_loss: 2.533 time taken 3.758 min
+2023-12-11 01:31:33,601 - INFO - epoch 16 -> batch : 8000   train_loss: 2.539 time taken 3.754 min
+2023-12-11 01:35:18,888 - INFO - epoch 16 -> batch : 9000   train_loss: 2.545 time taken 3.755 min
+2023-12-11 01:39:04,245 - INFO - epoch 16 -> batch : 10000   train_loss: 2.550 time taken 3.756 min
+2023-12-11 01:40:47,329 - INFO - epoch 16 result: loss: 2.4966126553781263 accuracy: 43.56832481635883 valid_loss: 2.6813444530262665
+2023-12-11 01:40:48,240 - INFO -  starting training epoch 17 with lr 0.01
+2023-12-11 01:44:37,902 - INFO - epoch 17 -> batch : 1000   train_loss: 2.391 time taken 3.828 min
+2023-12-11 01:48:23,111 - INFO - epoch 17 -> batch : 2000   train_loss: 2.424 time taken 3.753 min
+2023-12-11 01:52:08,431 - INFO - epoch 17 -> batch : 3000   train_loss: 2.461 time taken 3.755 min
+2023-12-11 01:55:53,652 - INFO - epoch 17 -> batch : 4000   train_loss: 2.477 time taken 3.754 min
+2023-12-11 01:59:38,786 - INFO - epoch 17 -> batch : 5000   train_loss: 2.492 time taken 3.752 min
+2023-12-11 02:03:24,064 - INFO - epoch 17 -> batch : 6000   train_loss: 2.519 time taken 3.755 min
+2023-12-11 02:07:09,284 - INFO - epoch 17 -> batch : 7000   train_loss: 2.518 time taken 3.754 min
+2023-12-11 02:10:54,440 - INFO - epoch 17 -> batch : 8000   train_loss: 2.525 time taken 3.753 min
+2023-12-11 02:14:39,744 - INFO - epoch 17 -> batch : 9000   train_loss: 2.523 time taken 3.755 min
+2023-12-11 02:18:25,220 - INFO - epoch 17 -> batch : 10000   train_loss: 2.530 time taken 3.758 min
+2023-12-11 02:20:08,004 - INFO - epoch 17 result: loss: 2.4861121599490827 accuracy: 43.75120495610643 valid_loss: 2.7535403805315646
+2023-12-11 02:20:08,951 - INFO -  starting training epoch 18 with lr 0.01
+2023-12-11 02:23:58,636 - INFO - epoch 18 -> batch : 1000   train_loss: 2.372 time taken 3.828 min
+2023-12-11 02:27:43,881 - INFO - epoch 18 -> batch : 2000   train_loss: 2.415 time taken 3.754 min
+2023-12-11 02:31:29,087 - INFO - epoch 18 -> batch : 3000   train_loss: 2.447 time taken 3.753 min
+2023-12-11 02:35:14,326 - INFO - epoch 18 -> batch : 4000   train_loss: 2.465 time taken 3.754 min
+2023-12-11 02:38:59,514 - INFO - epoch 18 -> batch : 5000   train_loss: 2.485 time taken 3.753 min
+2023-12-11 02:42:44,797 - INFO - epoch 18 -> batch : 6000   train_loss: 2.493 time taken 3.755 min
+2023-12-11 02:46:30,150 - INFO - epoch 18 -> batch : 7000   train_loss: 2.507 time taken 3.756 min
+2023-12-11 02:50:15,396 - INFO - epoch 18 -> batch : 8000   train_loss: 2.515 time taken 3.754 min
+2023-12-11 02:54:00,580 - INFO - epoch 18 -> batch : 9000   train_loss: 2.525 time taken 3.753 min
+2023-12-11 02:57:45,807 - INFO - epoch 18 -> batch : 10000   train_loss: 2.525 time taken 3.754 min
+2023-12-11 02:59:28,343 - INFO - epoch 18 result: loss: 2.474919361513216 accuracy: 43.93509979573311 valid_loss: 2.701763109782773
+2023-12-11 02:59:29,251 - INFO -  starting training epoch 19 with lr 0.01
+2023-12-11 03:03:18,789 - INFO - epoch 19 -> batch : 1000   train_loss: 2.358 time taken 3.826 min
+2023-12-11 03:07:03,991 - INFO - epoch 19 -> batch : 2000   train_loss: 2.402 time taken 3.753 min
+2023-12-11 03:10:49,190 - INFO - epoch 19 -> batch : 3000   train_loss: 2.441 time taken 3.753 min
+2023-12-11 03:14:34,445 - INFO - epoch 19 -> batch : 4000   train_loss: 2.451 time taken 3.754 min
+2023-12-11 03:18:19,795 - INFO - epoch 19 -> batch : 5000   train_loss: 2.481 time taken 3.756 min
+2023-12-11 03:22:05,016 - INFO - epoch 19 -> batch : 6000   train_loss: 2.489 time taken 3.754 min
+2023-12-11 03:25:50,111 - INFO - epoch 19 -> batch : 7000   train_loss: 2.501 time taken 3.752 min
+2023-12-11 03:29:35,349 - INFO - epoch 19 -> batch : 8000   train_loss: 2.520 time taken 3.754 min
+2023-12-11 03:33:20,440 - INFO - epoch 19 -> batch : 9000   train_loss: 2.511 time taken 3.751 min
+2023-12-11 03:37:05,451 - INFO - epoch 19 -> batch : 10000   train_loss: 2.523 time taken 3.750 min
+2023-12-11 03:38:48,902 - INFO - epoch 19 result: loss: 2.467892456138051 accuracy: 44.080826309138466 valid_loss: 2.7243595678178245
+2023-12-11 03:38:49,805 - INFO -  starting training epoch 20 with lr 0.01
+2023-12-11 03:42:39,484 - INFO - epoch 20 -> batch : 1000   train_loss: 2.353 time taken 3.828 min
+2023-12-11 03:46:24,891 - INFO - epoch 20 -> batch : 2000   train_loss: 2.389 time taken 3.757 min
+2023-12-11 03:50:10,118 - INFO - epoch 20 -> batch : 3000   train_loss: 2.443 time taken 3.754 min
+2023-12-11 03:53:55,379 - INFO - epoch 20 -> batch : 4000   train_loss: 2.455 time taken 3.754 min
+2023-12-11 03:57:40,615 - INFO - epoch 20 -> batch : 5000   train_loss: 2.464 time taken 3.754 min
+2023-12-11 04:01:25,909 - INFO - epoch 20 -> batch : 6000   train_loss: 2.476 time taken 3.755 min
+2023-12-11 04:05:11,182 - INFO - epoch 20 -> batch : 7000   train_loss: 2.500 time taken 3.755 min
+2023-12-11 04:08:56,506 - INFO - epoch 20 -> batch : 8000   train_loss: 2.507 time taken 3.755 min
+2023-12-11 04:12:41,919 - INFO - epoch 20 -> batch : 9000   train_loss: 2.506 time taken 3.757 min
+2023-12-11 04:16:27,281 - INFO - epoch 20 -> batch : 10000   train_loss: 2.518 time taken 3.756 min
+2023-12-11 04:18:10,617 - INFO - epoch 20 result: loss: 2.4610905176752453 accuracy: 44.193692157228526 valid_loss: 2.5929609942619147
+2023-12-11 04:18:11,566 - INFO -  starting training epoch 21 with lr 0.01
+2023-12-11 04:22:01,332 - INFO - epoch 21 -> batch : 1000   train_loss: 2.343 time taken 3.829 min
+2023-12-11 04:25:46,806 - INFO - epoch 21 -> batch : 2000   train_loss: 2.387 time taken 3.758 min
+2023-12-11 04:29:32,061 - INFO - epoch 21 -> batch : 3000   train_loss: 2.411 time taken 3.754 min
+2023-12-11 04:33:17,219 - INFO - epoch 21 -> batch : 4000   train_loss: 2.451 time taken 3.753 min
+2023-12-11 04:37:02,432 - INFO - epoch 21 -> batch : 5000   train_loss: 2.469 time taken 3.754 min
+2023-12-11 04:40:47,707 - INFO - epoch 21 -> batch : 6000   train_loss: 2.472 time taken 3.755 min
+2023-12-11 04:44:33,650 - INFO - epoch 21 -> batch : 7000   train_loss: 2.481 time taken 3.766 min
+2023-12-11 04:48:20,676 - INFO - epoch 21 -> batch : 8000   train_loss: 2.493 time taken 3.784 min
+2023-12-11 04:52:06,898 - INFO - epoch 21 -> batch : 9000   train_loss: 2.500 time taken 3.770 min
+2023-12-11 04:55:52,465 - INFO - epoch 21 -> batch : 10000   train_loss: 2.509 time taken 3.759 min
+2023-12-11 04:57:36,404 - INFO - epoch 21 result: loss: 2.4516806828392137 accuracy: 44.38398741147719 valid_loss: 2.6543454093396512
+2023-12-11 04:57:37,340 - INFO -  starting training epoch 22 with lr 0.01
+2023-12-11 05:01:27,259 - INFO - epoch 22 -> batch : 1000   train_loss: 2.338 time taken 3.832 min
+2023-12-11 05:05:13,376 - INFO - epoch 22 -> batch : 2000   train_loss: 2.387 time taken 3.769 min
+2023-12-11 05:08:58,646 - INFO - epoch 22 -> batch : 3000   train_loss: 2.415 time taken 3.754 min
+2023-12-11 05:12:43,670 - INFO - epoch 22 -> batch : 4000   train_loss: 2.434 time taken 3.750 min
+2023-12-11 05:16:28,740 - INFO - epoch 22 -> batch : 5000   train_loss: 2.459 time taken 3.751 min
+2023-12-11 05:20:13,938 - INFO - epoch 22 -> batch : 6000   train_loss: 2.469 time taken 3.753 min
+2023-12-11 05:23:59,284 - INFO - epoch 22 -> batch : 7000   train_loss: 2.472 time taken 3.756 min
+2023-12-11 05:27:44,448 - INFO - epoch 22 -> batch : 8000   train_loss: 2.491 time taken 3.753 min
+2023-12-11 05:31:29,730 - INFO - epoch 22 -> batch : 9000   train_loss: 2.491 time taken 3.755 min
+2023-12-11 05:35:15,001 - INFO - epoch 22 -> batch : 10000   train_loss: 2.504 time taken 3.754 min
+2023-12-11 05:36:58,266 - INFO - epoch 22 result: loss: 2.4459809467866345 accuracy: 44.48030584615433 valid_loss: 2.6192263154422535
+2023-12-11 05:36:59,188 - INFO -  starting training epoch 23 with lr 0.01
+2023-12-11 05:40:49,143 - INFO - epoch 23 -> batch : 1000   train_loss: 2.333 time taken 3.833 min
+2023-12-11 05:44:34,321 - INFO - epoch 23 -> batch : 2000   train_loss: 2.384 time taken 3.753 min
+2023-12-11 05:48:20,104 - INFO - epoch 23 -> batch : 3000   train_loss: 2.421 time taken 3.763 min
+2023-12-11 05:52:05,373 - INFO - epoch 23 -> batch : 4000   train_loss: 2.444 time taken 3.754 min
+2023-12-11 05:55:50,633 - INFO - epoch 23 -> batch : 5000   train_loss: 2.444 time taken 3.754 min
+2023-12-11 05:59:36,186 - INFO - epoch 23 -> batch : 6000   train_loss: 2.448 time taken 3.759 min
+2023-12-11 06:03:21,768 - INFO - epoch 23 -> batch : 7000   train_loss: 2.468 time taken 3.760 min
+2023-12-11 06:07:07,134 - INFO - epoch 23 -> batch : 8000   train_loss: 2.483 time taken 3.756 min
+2023-12-11 06:10:52,351 - INFO - epoch 23 -> batch : 9000   train_loss: 2.480 time taken 3.754 min
+2023-12-11 06:14:37,638 - INFO - epoch 23 -> batch : 10000   train_loss: 2.496 time taken 3.755 min
+2023-12-11 06:16:21,329 - INFO - epoch 23 result: loss: 2.4401319619658945 accuracy: 44.5115273808957 valid_loss: 2.7632964328121954
+2023-12-11 06:16:22,252 - INFO -  starting training epoch 24 with lr 0.01
+2023-12-11 06:20:12,217 - INFO - epoch 24 -> batch : 1000   train_loss: 2.319 time taken 3.833 min
+2023-12-11 06:23:57,681 - INFO - epoch 24 -> batch : 2000   train_loss: 2.371 time taken 3.758 min
+2023-12-11 06:27:42,881 - INFO - epoch 24 -> batch : 3000   train_loss: 2.402 time taken 3.753 min
+2023-12-11 06:31:28,396 - INFO - epoch 24 -> batch : 4000   train_loss: 2.418 time taken 3.759 min
+2023-12-11 06:35:13,747 - INFO - epoch 24 -> batch : 5000   train_loss: 2.441 time taken 3.756 min
+2023-12-11 06:38:59,013 - INFO - epoch 24 -> batch : 6000   train_loss: 2.459 time taken 3.754 min
+2023-12-11 06:42:44,423 - INFO - epoch 24 -> batch : 7000   train_loss: 2.469 time taken 3.757 min
+2023-12-11 06:46:29,368 - INFO - epoch 24 -> batch : 8000   train_loss: 2.484 time taken 3.749 min
+2023-12-11 06:50:14,258 - INFO - epoch 24 -> batch : 9000   train_loss: 2.489 time taken 3.748 min
+2023-12-11 06:53:59,479 - INFO - epoch 24 -> batch : 10000   train_loss: 2.484 time taken 3.754 min
+2023-12-11 06:55:43,206 - INFO - epoch 24 result: loss: 2.433733363680311 accuracy: 44.6762990304933 valid_loss: 2.651167125653123
+2023-12-11 06:55:44,137 - INFO -  starting training epoch 25 with lr 0.01
+2023-12-11 06:59:33,845 - INFO - epoch 25 -> batch : 1000   train_loss: 2.321 time taken 3.828 min
+2023-12-11 07:03:19,176 - INFO - epoch 25 -> batch : 2000   train_loss: 2.369 time taken 3.755 min
+2023-12-11 07:07:04,485 - INFO - epoch 25 -> batch : 3000   train_loss: 2.390 time taken 3.755 min
+2023-12-11 07:10:49,691 - INFO - epoch 25 -> batch : 4000   train_loss: 2.417 time taken 3.753 min
+2023-12-11 07:14:33,370 - INFO - epoch 25 -> batch : 5000   train_loss: 2.438 time taken 3.728 min
+2023-12-11 07:21:30,389 - INFO -  training using device: mps
+2023-12-11 07:21:36,202 - INFO -  starting training epoch 25 with lr 0.001
+2023-12-11 07:25:24,215 - INFO - epoch 25 -> batch : 1000   train_loss: 1.949 time taken 3.800 min
+2023-12-11 07:29:10,309 - INFO - epoch 25 -> batch : 2000   train_loss: 1.847 time taken 3.768 min
+2023-12-11 07:32:55,375 - INFO - epoch 25 -> batch : 3000   train_loss: 1.805 time taken 3.751 min
+2023-12-11 07:36:40,255 - INFO - epoch 25 -> batch : 4000   train_loss: 1.798 time taken 3.748 min
+2023-12-11 07:40:25,460 - INFO - epoch 25 -> batch : 5000   train_loss: 1.774 time taken 3.753 min
+2023-12-11 07:44:10,558 - INFO - epoch 25 -> batch : 6000   train_loss: 1.754 time taken 3.752 min
+2023-12-11 07:47:57,048 - INFO - epoch 25 -> batch : 7000   train_loss: 1.757 time taken 3.775 min
+2023-12-11 07:51:42,892 - INFO - epoch 25 -> batch : 8000   train_loss: 1.747 time taken 3.764 min
+2023-12-11 07:55:28,908 - INFO - epoch 25 -> batch : 9000   train_loss: 1.733 time taken 3.767 min
+2023-12-11 07:59:11,786 - INFO - epoch 25 -> batch : 10000   train_loss: 1.731 time taken 3.715 min
+2023-12-11 08:00:55,961 - INFO - epoch 25 result: loss: 1.789482812840979 accuracy: 57.242576494711464 valid_loss: 2.0569527655306374
+2023-12-11 08:00:56,909 - INFO -  starting training epoch 26 with lr 0.001
+2023-12-11 08:04:46,770 - INFO - epoch 26 -> batch : 1000   train_loss: 1.646 time taken 3.831 min
+2023-12-14 13:19:37,054 - INFO -  training using device: mps
+2023-12-14 13:19:43,116 - INFO -  starting training epoch 26 with lr 0.001
+2023-12-14 13:23:30,231 - INFO - epoch 26 -> batch : 1000   train_loss: 1.653 time taken 3.785 min
+2023-12-14 13:27:13,153 - INFO - epoch 26 -> batch : 2000   train_loss: 1.649 time taken 3.715 min
+2023-12-14 13:30:55,891 - INFO - epoch 26 -> batch : 3000   train_loss: 1.650 time taken 3.712 min
+2023-12-14 13:34:40,881 - INFO - epoch 26 -> batch : 4000   train_loss: 1.646 time taken 3.750 min
+2023-12-14 13:38:26,412 - INFO - epoch 26 -> batch : 5000   train_loss: 1.640 time taken 3.759 min
+2023-12-14 13:42:11,752 - INFO - epoch 26 -> batch : 6000   train_loss: 1.651 time taken 3.756 min
+2023-12-14 13:45:56,682 - INFO - epoch 26 -> batch : 7000   train_loss: 1.659 time taken 3.749 min
+2023-12-14 13:49:41,606 - INFO - epoch 26 -> batch : 8000   train_loss: 1.651 time taken 3.749 min
+2023-12-14 13:53:26,623 - INFO - epoch 26 -> batch : 9000   train_loss: 1.643 time taken 3.750 min
+2023-12-14 13:57:11,758 - INFO - epoch 26 -> batch : 10000   train_loss: 1.645 time taken 3.752 min
+2023-12-14 13:58:56,300 - INFO - epoch 26 result: loss: 1.648573844332795 accuracy: 60.05626120560395 valid_loss: 2.042672884738659
+2023-12-14 13:58:57,247 - INFO -  starting training epoch 27 with lr 0.001
+2023-12-14 14:02:44,414 - INFO - epoch 27 -> batch : 1000   train_loss: 1.561 time taken 3.786 min
+2023-12-14 14:06:27,250 - INFO - epoch 27 -> batch : 2000   train_loss: 1.563 time taken 3.714 min
+2023-12-14 14:10:10,053 - INFO - epoch 27 -> batch : 3000   train_loss: 1.578 time taken 3.713 min
+2023-12-14 14:13:55,405 - INFO - epoch 27 -> batch : 4000   train_loss: 1.582 time taken 3.756 min
+2023-12-14 14:17:40,856 - INFO - epoch 27 -> batch : 5000   train_loss: 1.578 time taken 3.757 min
+2023-12-14 14:21:26,368 - INFO - epoch 27 -> batch : 6000   train_loss: 1.589 time taken 3.759 min
+2023-12-14 14:25:11,813 - INFO - epoch 27 -> batch : 7000   train_loss: 1.585 time taken 3.757 min
+2023-12-14 14:28:57,297 - INFO - epoch 27 -> batch : 8000   train_loss: 1.592 time taken 3.758 min
+2023-12-14 14:32:42,689 - INFO - epoch 27 -> batch : 9000   train_loss: 1.591 time taken 3.757 min
+2023-12-14 14:36:28,137 - INFO - epoch 27 -> batch : 10000   train_loss: 1.601 time taken 3.757 min
+2023-12-14 14:38:10,793 - INFO - epoch 27 result: loss: 1.581902036704979 accuracy: 61.32900706933601 valid_loss: 2.00964297419009
+2023-12-14 14:38:11,678 - INFO -  starting training epoch 28 with lr 0.001
+2023-12-14 14:42:01,488 - INFO - epoch 28 -> batch : 1000   train_loss: 1.507 time taken 3.830 min
+2023-12-14 14:45:47,154 - INFO - epoch 28 -> batch : 2000   train_loss: 1.512 time taken 3.761 min
+2023-12-14 14:49:32,790 - INFO - epoch 28 -> batch : 3000   train_loss: 1.521 time taken 3.761 min
+2023-12-14 14:53:18,390 - INFO - epoch 28 -> batch : 4000   train_loss: 1.532 time taken 3.760 min
+2023-12-14 14:57:04,019 - INFO - epoch 28 -> batch : 5000   train_loss: 1.543 time taken 3.760 min
+2023-12-14 15:00:49,689 - INFO - epoch 28 -> batch : 6000   train_loss: 1.533 time taken 3.761 min
+2023-12-14 15:04:35,328 - INFO - epoch 28 -> batch : 7000   train_loss: 1.546 time taken 3.761 min
+2023-12-14 15:08:20,904 - INFO - epoch 28 -> batch : 8000   train_loss: 1.549 time taken 3.760 min
+2023-12-14 15:12:06,593 - INFO - epoch 28 -> batch : 9000   train_loss: 1.541 time taken 3.761 min
+2023-12-14 15:15:52,177 - INFO - epoch 28 -> batch : 10000   train_loss: 1.562 time taken 3.760 min
+2023-12-14 15:17:35,372 - INFO - epoch 28 result: loss: 1.5345984140118876 accuracy: 62.251369259433 valid_loss: 1.9950453171034908
+2023-12-14 15:17:36,254 - INFO -  starting training epoch 29 with lr 0.001
+2023-12-14 15:21:25,673 - INFO - epoch 29 -> batch : 1000   train_loss: 1.451 time taken 3.824 min
+2023-12-14 15:25:11,090 - INFO - epoch 29 -> batch : 2000   train_loss: 1.469 time taken 3.757 min
+2023-12-14 15:28:56,507 - INFO - epoch 29 -> batch : 3000   train_loss: 1.488 time taken 3.757 min
+2023-12-14 15:32:41,899 - INFO - epoch 29 -> batch : 4000   train_loss: 1.495 time taken 3.757 min
+2023-12-14 15:36:27,358 - INFO - epoch 29 -> batch : 5000   train_loss: 1.497 time taken 3.758 min
+2023-12-14 15:40:12,345 - INFO - epoch 29 -> batch : 6000   train_loss: 1.499 time taken 3.750 min
+2023-12-14 15:43:54,976 - INFO - epoch 29 -> batch : 7000   train_loss: 1.508 time taken 3.710 min
+2023-12-14 15:47:37,378 - INFO - epoch 29 -> batch : 8000   train_loss: 1.505 time taken 3.707 min
+2023-12-14 15:51:19,519 - INFO - epoch 29 -> batch : 9000   train_loss: 1.524 time taken 3.702 min
+2023-12-14 15:55:01,992 - INFO - epoch 29 -> batch : 10000   train_loss: 1.521 time taken 3.708 min
+2023-12-14 15:56:45,223 - INFO - epoch 29 result: loss: 1.4958296581939026 accuracy: 62.95330741425591 valid_loss: 2.006144649537323
+2023-12-14 15:56:46,129 - INFO -  starting training epoch 30 with lr 0.001
+2023-12-14 16:00:35,648 - INFO - epoch 30 -> batch : 1000   train_loss: 1.420 time taken 3.825 min
+2023-12-14 16:04:21,116 - INFO - epoch 30 -> batch : 2000   train_loss: 1.436 time taken 3.758 min
+2023-12-14 16:08:06,558 - INFO - epoch 30 -> batch : 3000   train_loss: 1.439 time taken 3.757 min
+2023-12-14 16:11:52,173 - INFO - epoch 30 -> batch : 4000   train_loss: 1.454 time taken 3.760 min
+2023-12-14 16:15:37,716 - INFO - epoch 30 -> batch : 5000   train_loss: 1.455 time taken 3.759 min
+2023-12-14 16:19:23,210 - INFO - epoch 30 -> batch : 6000   train_loss: 1.475 time taken 3.758 min
+2023-12-14 16:23:08,712 - INFO - epoch 30 -> batch : 7000   train_loss: 1.478 time taken 3.758 min
+2023-12-14 16:26:54,151 - INFO - epoch 30 -> batch : 8000   train_loss: 1.481 time taken 3.757 min
+2023-12-14 16:30:38,074 - INFO - epoch 30 -> batch : 9000   train_loss: 1.492 time taken 3.732 min
+2023-12-14 16:34:21,554 - INFO - epoch 30 -> batch : 10000   train_loss: 1.493 time taken 3.725 min
+2023-12-14 16:36:05,446 - INFO - epoch 30 result: loss: 1.4621941040207693 accuracy: 63.55799048835944 valid_loss: 2.022784589501598
+2023-12-14 16:36:06,319 - INFO -  starting training epoch 31 with lr 0.001
+2023-12-14 16:39:54,439 - INFO - epoch 31 -> batch : 1000   train_loss: 1.380 time taken 3.802 min
+2023-12-14 16:43:40,084 - INFO - epoch 31 -> batch : 2000   train_loss: 1.402 time taken 3.761 min
+2023-12-14 16:47:25,690 - INFO - epoch 31 -> batch : 3000   train_loss: 1.405 time taken 3.760 min
+2023-12-14 16:51:11,312 - INFO - epoch 31 -> batch : 4000   train_loss: 1.425 time taken 3.760 min
+2023-12-14 16:54:56,930 - INFO - epoch 31 -> batch : 5000   train_loss: 1.429 time taken 3.760 min
+2023-12-14 16:58:42,466 - INFO - epoch 31 -> batch : 6000   train_loss: 1.436 time taken 3.759 min
+2023-12-14 17:02:28,114 - INFO - epoch 31 -> batch : 7000   train_loss: 1.446 time taken 3.761 min
+2023-12-14 17:06:13,727 - INFO - epoch 31 -> batch : 8000   train_loss: 1.458 time taken 3.760 min
+2023-12-14 17:09:59,117 - INFO - epoch 31 -> batch : 9000   train_loss: 1.455 time taken 3.756 min
+2023-12-14 17:13:42,960 - INFO - epoch 31 -> batch : 10000   train_loss: 1.466 time taken 3.731 min
+2023-12-14 17:15:26,129 - INFO - epoch 31 result: loss: 1.4301074342591897 accuracy: 64.15564871714616 valid_loss: 2.019081078831802
+2023-12-14 17:15:27,039 - INFO -  starting training epoch 32 with lr 0.001
+2023-12-14 17:19:13,575 - INFO - epoch 32 -> batch : 1000   train_loss: 1.344 time taken 3.776 min
+2023-12-14 17:22:56,124 - INFO - epoch 32 -> batch : 2000   train_loss: 1.366 time taken 3.709 min
+2023-12-14 17:26:41,245 - INFO - epoch 32 -> batch : 3000   train_loss: 1.380 time taken 3.752 min
+2023-12-14 17:30:26,636 - INFO - epoch 32 -> batch : 4000   train_loss: 1.390 time taken 3.756 min
+2023-12-14 17:34:12,020 - INFO - epoch 32 -> batch : 5000   train_loss: 1.405 time taken 3.756 min
+2023-12-14 17:37:57,384 - INFO - epoch 32 -> batch : 6000   train_loss: 1.409 time taken 3.756 min
+2023-12-14 17:41:42,827 - INFO - epoch 32 -> batch : 7000   train_loss: 1.422 time taken 3.757 min
+2023-12-14 17:45:28,284 - INFO - epoch 32 -> batch : 8000   train_loss: 1.421 time taken 3.758 min
+2023-12-14 17:49:13,701 - INFO - epoch 32 -> batch : 9000   train_loss: 1.438 time taken 3.757 min
+2023-12-14 17:52:59,080 - INFO - epoch 32 -> batch : 10000   train_loss: 1.442 time taken 3.756 min
+2023-12-14 17:54:41,293 - INFO - epoch 32 result: loss: 1.4018466857167986 accuracy: 64.60398995603227 valid_loss: 2.0195046340108225
+2023-12-14 17:54:42,186 - INFO -  starting training epoch 33 with lr 0.0001
+2023-12-14 17:58:31,695 - INFO - epoch 33 -> batch : 1000   train_loss: 1.235 time taken 3.825 min
+2023-12-14 18:02:17,010 - INFO - epoch 33 -> batch : 2000   train_loss: 1.207 time taken 3.755 min
+2023-12-14 18:06:02,439 - INFO - epoch 33 -> batch : 3000   train_loss: 1.199 time taken 3.757 min
+2023-12-14 18:09:47,931 - INFO - epoch 33 -> batch : 4000   train_loss: 1.194 time taken 3.758 min
+2023-12-14 18:13:33,505 - INFO - epoch 33 -> batch : 5000   train_loss: 1.204 time taken 3.760 min
+2023-12-14 18:17:17,596 - INFO - epoch 33 -> batch : 6000   train_loss: 1.198 time taken 3.735 min
+2023-12-14 18:21:01,484 - INFO - epoch 33 -> batch : 7000   train_loss: 1.200 time taken 3.731 min
+2023-12-14 18:24:43,702 - INFO - epoch 33 -> batch : 8000   train_loss: 1.188 time taken 3.704 min
+2023-12-14 18:28:25,959 - INFO - epoch 33 -> batch : 9000   train_loss: 1.184 time taken 3.704 min
+2023-12-14 18:32:08,349 - INFO - epoch 33 -> batch : 10000   train_loss: 1.197 time taken 3.706 min
+2023-12-14 18:33:51,946 - INFO - epoch 33 result: loss: 1.200709464845362 accuracy: 69.28870319013836 valid_loss: 1.9620752090688252
+2023-12-14 18:33:52,883 - INFO -  starting training epoch 34 with lr 0.0001
+2023-12-14 18:37:39,754 - INFO - epoch 34 -> batch : 1000   train_loss: 1.162 time taken 3.781 min
+2023-12-14 18:41:22,278 - INFO - epoch 34 -> batch : 2000   train_loss: 1.163 time taken 3.709 min
+2023-12-14 18:45:07,031 - INFO - epoch 34 -> batch : 3000   train_loss: 1.168 time taken 3.746 min
+2023-12-14 18:48:52,549 - INFO - epoch 34 -> batch : 4000   train_loss: 1.169 time taken 3.759 min
+2023-12-14 18:52:38,174 - INFO - epoch 34 -> batch : 5000   train_loss: 1.181 time taken 3.760 min
+2023-12-14 18:56:23,862 - INFO - epoch 34 -> batch : 6000   train_loss: 1.176 time taken 3.761 min
+2023-12-14 19:00:09,525 - INFO - epoch 34 -> batch : 7000   train_loss: 1.174 time taken 3.761 min
+2023-12-14 19:03:55,148 - INFO - epoch 34 -> batch : 8000   train_loss: 1.177 time taken 3.760 min
+2023-12-14 19:07:40,696 - INFO - epoch 34 -> batch : 9000   train_loss: 1.169 time taken 3.759 min
+2023-12-14 19:11:26,267 - INFO - epoch 34 -> batch : 10000   train_loss: 1.180 time taken 3.759 min
+2023-12-14 19:13:09,371 - INFO - epoch 34 result: loss: 1.1720565663648772 accuracy: 69.95091194200288 valid_loss: 1.960797217495911
+2023-12-14 19:13:10,275 - INFO -  starting training epoch 35 with lr 0.0001
+2023-12-14 19:16:59,529 - INFO - epoch 35 -> batch : 1000   train_loss: 1.154 time taken 3.821 min
+2023-12-14 19:20:42,226 - INFO - epoch 35 -> batch : 2000   train_loss: 1.154 time taken 3.712 min
+2023-12-14 19:24:24,601 - INFO - epoch 35 -> batch : 3000   train_loss: 1.156 time taken 3.706 min
+2023-12-14 19:28:07,117 - INFO - epoch 35 -> batch : 4000   train_loss: 1.155 time taken 3.709 min
+2023-12-14 19:31:51,387 - INFO - epoch 35 -> batch : 5000   train_loss: 1.162 time taken 3.738 min
+2023-12-14 19:35:36,547 - INFO - epoch 35 -> batch : 6000   train_loss: 1.165 time taken 3.753 min
+2023-12-14 19:39:21,838 - INFO - epoch 35 -> batch : 7000   train_loss: 1.167 time taken 3.755 min
+2023-12-14 19:43:06,041 - INFO - epoch 35 -> batch : 8000   train_loss: 1.156 time taken 3.737 min
+2023-12-14 19:46:48,802 - INFO - epoch 35 -> batch : 9000   train_loss: 1.162 time taken 3.713 min
+2023-12-14 19:50:31,438 - INFO - epoch 35 -> batch : 10000   train_loss: 1.169 time taken 3.711 min
+2023-12-14 19:52:15,663 - INFO - epoch 35 result: loss: 1.1600668856194922 accuracy: 70.16618442404464 valid_loss: 1.9602754765459338
+2023-12-14 19:52:16,551 - INFO -  starting training epoch 36 with lr 0.0001
+2023-12-14 19:58:55,383 - INFO -  training using device: mps
+2023-12-16 11:16:31,211 - INFO -  training using device: mps
+2023-12-16 11:16:38,783 - INFO -  starting training epoch 36 with lr 0.0001
+2023-12-16 11:20:29,753 - INFO - epoch 36 -> batch : 1000   train_loss: 1.142 time taken 3.849 min
+2023-12-16 11:24:12,815 - INFO - epoch 36 -> batch : 2000   train_loss: 1.139 time taken 3.718 min
+2023-12-16 11:27:56,324 - INFO - epoch 36 -> batch : 3000   train_loss: 1.152 time taken 3.725 min
+2023-12-16 11:31:42,128 - INFO - epoch 36 -> batch : 4000   train_loss: 1.142 time taken 3.763 min
+2023-12-16 11:35:27,798 - INFO - epoch 36 -> batch : 5000   train_loss: 1.149 time taken 3.761 min
+2023-12-16 11:39:13,103 - INFO - epoch 36 -> batch : 6000   train_loss: 1.148 time taken 3.755 min
+2023-12-16 11:42:58,627 - INFO - epoch 36 -> batch : 7000   train_loss: 1.154 time taken 3.759 min
+2023-12-16 11:46:43,818 - INFO - epoch 36 -> batch : 8000   train_loss: 1.149 time taken 3.753 min
+2023-12-16 11:50:26,939 - INFO - epoch 36 -> batch : 9000   train_loss: 1.160 time taken 3.719 min
+2023-12-16 11:54:10,026 - INFO - epoch 36 -> batch : 10000   train_loss: 1.145 time taken 3.718 min
+2023-12-16 11:55:54,645 - INFO - epoch 36 result: loss: 1.1481015692224035 accuracy: 70.43422129979933 valid_loss: 1.962274308094893
+2023-12-16 11:55:55,613 - INFO -  starting training epoch 37 with lr 0.0001
+2023-12-16 11:59:44,538 - INFO - epoch 37 -> batch : 1000   train_loss: 1.128 time taken 3.815 min
+2023-12-16 12:03:30,499 - INFO - epoch 37 -> batch : 2000   train_loss: 1.140 time taken 3.766 min
+2023-12-16 12:07:16,669 - INFO - epoch 37 -> batch : 3000   train_loss: 1.132 time taken 3.769 min
+2023-12-16 12:11:02,172 - INFO - epoch 37 -> batch : 4000   train_loss: 1.137 time taken 3.758 min
+2023-12-16 12:14:47,627 - INFO - epoch 37 -> batch : 5000   train_loss: 1.142 time taken 3.758 min
+2023-12-16 12:18:32,980 - INFO - epoch 37 -> batch : 6000   train_loss: 1.135 time taken 3.756 min
+2023-12-16 12:22:18,509 - INFO - epoch 37 -> batch : 7000   train_loss: 1.142 time taken 3.759 min
+2023-12-16 12:26:04,138 - INFO - epoch 37 -> batch : 8000   train_loss: 1.153 time taken 3.760 min
+2023-12-16 12:29:49,762 - INFO - epoch 37 -> batch : 9000   train_loss: 1.146 time taken 3.760 min
+2023-12-16 12:33:35,491 - INFO - epoch 37 -> batch : 10000   train_loss: 1.144 time taken 3.762 min
+2023-12-16 12:35:19,435 - INFO - epoch 37 result: loss: 1.1400620169334716 accuracy: 70.61202794015145 valid_loss: 1.9607455318846057
+2023-12-16 12:35:20,325 - INFO -  starting training epoch 38 with lr 0.0001
+2023-12-16 12:39:11,247 - INFO - epoch 38 -> batch : 1000   train_loss: 1.122 time taken 3.849 min
+2023-12-16 12:42:57,568 - INFO - epoch 38 -> batch : 2000   train_loss: 1.120 time taken 3.772 min
+2023-12-16 12:46:43,910 - INFO - epoch 38 -> batch : 3000   train_loss: 1.128 time taken 3.772 min
+2023-12-16 12:50:30,419 - INFO - epoch 38 -> batch : 4000   train_loss: 1.133 time taken 3.775 min
+2023-12-16 12:54:16,736 - INFO - epoch 38 -> batch : 5000   train_loss: 1.131 time taken 3.772 min
+2023-12-16 12:58:03,172 - INFO - epoch 38 -> batch : 6000   train_loss: 1.133 time taken 3.774 min
+2023-12-16 13:01:49,684 - INFO - epoch 38 -> batch : 7000   train_loss: 1.132 time taken 3.775 min
+2023-12-16 13:05:36,115 - INFO - epoch 38 -> batch : 8000   train_loss: 1.138 time taken 3.774 min
+2023-12-16 13:09:22,624 - INFO - epoch 38 -> batch : 9000   train_loss: 1.135 time taken 3.775 min
+2023-12-16 13:13:09,072 - INFO - epoch 38 -> batch : 10000   train_loss: 1.134 time taken 3.774 min
+2023-12-16 13:14:51,827 - INFO - epoch 38 result: loss: 1.1307632740203675 accuracy: 70.84181843584794 valid_loss: 1.9679979826788159
+2023-12-16 13:14:52,722 - INFO -  starting training epoch 39 with lr 0.0001
+2023-12-16 13:18:42,804 - INFO - epoch 39 -> batch : 1000   train_loss: 1.107 time taken 3.835 min
+2023-12-16 13:22:28,884 - INFO - epoch 39 -> batch : 2000   train_loss: 1.109 time taken 3.768 min
+2023-12-16 13:26:14,643 - INFO - epoch 39 -> batch : 3000   train_loss: 1.126 time taken 3.763 min
+2023-12-16 13:30:00,614 - INFO - epoch 39 -> batch : 4000   train_loss: 1.116 time taken 3.766 min
+2023-12-16 13:33:46,732 - INFO - epoch 39 -> batch : 5000   train_loss: 1.125 time taken 3.769 min
+2023-12-16 13:37:32,261 - INFO - epoch 39 -> batch : 6000   train_loss: 1.120 time taken 3.759 min
+2023-12-16 13:41:17,962 - INFO - epoch 39 -> batch : 7000   train_loss: 1.133 time taken 3.762 min
+2023-12-16 13:45:03,733 - INFO - epoch 39 -> batch : 8000   train_loss: 1.124 time taken 3.763 min
+2023-12-16 13:48:48,280 - INFO - epoch 39 -> batch : 9000   train_loss: 1.123 time taken 3.742 min
+2023-12-16 13:52:30,714 - INFO - epoch 39 -> batch : 10000   train_loss: 1.129 time taken 3.707 min
+2023-12-16 13:54:14,637 - INFO - epoch 39 result: loss: 1.12112034126357 accuracy: 70.98816937994813 valid_loss: 1.9719238089173652
+2023-12-16 13:54:15,748 - INFO -  starting training epoch 40 with lr 0.0001
+2023-12-16 13:58:02,830 - INFO - epoch 40 -> batch : 1000   train_loss: 1.107 time taken 3.785 min
+2023-12-16 14:01:48,806 - INFO - epoch 40 -> batch : 2000   train_loss: 1.107 time taken 3.766 min
+2023-12-16 14:05:34,792 - INFO - epoch 40 -> batch : 3000   train_loss: 1.107 time taken 3.766 min
+2023-12-16 14:09:20,776 - INFO - epoch 40 -> batch : 4000   train_loss: 1.113 time taken 3.766 min
+2023-12-16 14:13:06,778 - INFO - epoch 40 -> batch : 5000   train_loss: 1.119 time taken 3.767 min
+2023-12-16 14:16:52,880 - INFO - epoch 40 -> batch : 6000   train_loss: 1.117 time taken 3.768 min
+2023-12-16 14:20:38,931 - INFO - epoch 40 -> batch : 7000   train_loss: 1.120 time taken 3.767 min
+2023-12-16 14:24:24,961 - INFO - epoch 40 -> batch : 8000   train_loss: 1.118 time taken 3.767 min
+2023-12-16 14:28:11,053 - INFO - epoch 40 -> batch : 9000   train_loss: 1.122 time taken 3.768 min
+2023-12-16 14:31:55,360 - INFO - epoch 40 -> batch : 10000   train_loss: 1.118 time taken 3.738 min
+2023-12-16 14:33:38,555 - INFO - epoch 40 result: loss: 1.1149221907605182 accuracy: 71.14216960005994 valid_loss: 1.9698568622169592
+2023-12-16 14:33:39,457 - INFO -  starting training epoch 41 with lr 0.0001
+2023-12-16 14:37:26,769 - INFO - epoch 41 -> batch : 1000   train_loss: 1.104 time taken 3.789 min
+2023-12-16 14:41:09,403 - INFO - epoch 41 -> batch : 2000   train_loss: 1.109 time taken 3.711 min
+2023-12-16 14:44:52,320 - INFO - epoch 41 -> batch : 3000   train_loss: 1.100 time taken 3.715 min
+2023-12-16 14:48:34,970 - INFO - epoch 41 -> batch : 4000   train_loss: 1.107 time taken 3.711 min
+2023-12-16 14:52:17,456 - INFO - epoch 41 -> batch : 5000   train_loss: 1.108 time taken 3.708 min
+2023-12-16 14:56:03,511 - INFO - epoch 41 -> batch : 6000   train_loss: 1.114 time taken 3.768 min
+2023-12-16 14:59:49,712 - INFO - epoch 41 -> batch : 7000   train_loss: 1.107 time taken 3.770 min
+2023-12-16 15:03:35,865 - INFO - epoch 41 -> batch : 8000   train_loss: 1.111 time taken 3.769 min
+2023-12-16 15:07:21,962 - INFO - epoch 41 -> batch : 9000   train_loss: 1.101 time taken 3.768 min
+2023-12-16 15:11:08,075 - INFO - epoch 41 -> batch : 10000   train_loss: 1.114 time taken 3.769 min
+2023-12-16 15:12:51,807 - INFO - epoch 41 result: loss: 1.1074076313060242 accuracy: 71.28578865987026 valid_loss: 1.9702102607473388
+2023-12-16 15:12:52,700 - INFO -  starting training epoch 42 with lr 1e-05
+2023-12-16 15:16:42,879 - INFO - epoch 42 -> batch : 1000   train_loss: 1.074 time taken 3.836 min
+2023-12-16 15:20:29,090 - INFO - epoch 42 -> batch : 2000   train_loss: 1.075 time taken 3.770 min
+2023-12-16 15:24:15,141 - INFO - epoch 42 -> batch : 3000   train_loss: 1.078 time taken 3.767 min
+2023-12-16 15:28:01,286 - INFO - epoch 42 -> batch : 4000   train_loss: 1.078 time taken 3.769 min
+2023-12-16 15:31:47,532 - INFO - epoch 42 -> batch : 5000   train_loss: 1.083 time taken 3.771 min
+2023-12-16 15:35:33,860 - INFO - epoch 42 -> batch : 6000   train_loss: 1.077 time taken 3.772 min
+2023-12-16 15:39:19,977 - INFO - epoch 42 -> batch : 7000   train_loss: 1.075 time taken 3.769 min
+2023-12-16 15:43:06,110 - INFO - epoch 42 -> batch : 8000   train_loss: 1.080 time taken 3.769 min
+2023-12-16 15:46:52,340 - INFO - epoch 42 -> batch : 9000   train_loss: 1.071 time taken 3.770 min
+2023-12-16 15:50:38,533 - INFO - epoch 42 -> batch : 10000   train_loss: 1.080 time taken 3.770 min
+2023-12-16 15:52:22,339 - INFO - epoch 42 result: loss: 1.077071884069052 accuracy: 72.02800259450953 valid_loss: 1.969074650188846
+2023-12-16 15:52:23,189 - INFO -  starting training epoch 43 with lr 1e-05
+2023-12-16 15:56:13,478 - INFO - epoch 43 -> batch : 1000   train_loss: 1.074 time taken 3.838 min
+2023-12-16 15:59:59,727 - INFO - epoch 43 -> batch : 2000   train_loss: 1.073 time taken 3.771 min
+2023-12-16 16:03:45,998 - INFO - epoch 43 -> batch : 3000   train_loss: 1.072 time taken 3.771 min
+2023-12-16 16:07:32,196 - INFO - epoch 43 -> batch : 4000   train_loss: 1.075 time taken 3.770 min
+2023-12-16 16:11:18,333 - INFO - epoch 43 -> batch : 5000   train_loss: 1.081 time taken 3.769 min
+2023-12-16 16:15:04,549 - INFO - epoch 43 -> batch : 6000   train_loss: 1.069 time taken 3.770 min
+2023-12-16 16:18:50,824 - INFO - epoch 43 -> batch : 7000   train_loss: 1.073 time taken 3.771 min
+2023-12-16 16:22:36,996 - INFO - epoch 43 -> batch : 8000   train_loss: 1.074 time taken 3.769 min
+2023-12-16 16:26:23,000 - INFO - epoch 43 -> batch : 9000   train_loss: 1.074 time taken 3.767 min
+2023-12-16 16:30:09,011 - INFO - epoch 43 -> batch : 10000   train_loss: 1.075 time taken 3.767 min
+2023-12-16 16:31:51,780 - INFO - epoch 43 result: loss: 1.0740153289520062 accuracy: 72.11916947595435 valid_loss: 1.9709043975376412
+2023-12-16 16:31:52,667 - INFO -  starting training epoch 44 with lr 1e-05
+2023-12-16 16:35:43,385 - INFO - epoch 44 -> batch : 1000   train_loss: 1.074 time taken 3.845 min
+2023-12-16 16:39:29,814 - INFO - epoch 44 -> batch : 2000   train_loss: 1.073 time taken 3.774 min
+2023-12-16 16:43:16,262 - INFO - epoch 44 -> batch : 3000   train_loss: 1.070 time taken 3.774 min
+2023-12-16 16:47:02,683 - INFO - epoch 44 -> batch : 4000   train_loss: 1.064 time taken 3.774 min
+2023-12-16 16:50:49,077 - INFO - epoch 44 -> batch : 5000   train_loss: 1.075 time taken 3.773 min
+2023-12-16 16:54:35,478 - INFO - epoch 44 -> batch : 6000   train_loss: 1.073 time taken 3.773 min
+2023-12-16 16:58:21,747 - INFO - epoch 44 -> batch : 7000   train_loss: 1.076 time taken 3.771 min
+2023-12-16 17:02:08,043 - INFO - epoch 44 -> batch : 8000   train_loss: 1.066 time taken 3.772 min
+2023-12-16 17:05:54,369 - INFO - epoch 44 -> batch : 9000   train_loss: 1.083 time taken 3.772 min
+2023-12-16 17:09:40,794 - INFO - epoch 44 -> batch : 10000   train_loss: 1.070 time taken 3.774 min
+2023-12-16 17:11:25,497 - INFO - epoch 44 result: loss: 1.0724157500457574 accuracy: 72.1100371770425 valid_loss: 1.9699001623236614
+2023-12-16 17:11:26,401 - INFO -  starting training epoch 45 with lr 1e-05
+2023-12-16 17:15:16,597 - INFO - epoch 45 -> batch : 1000   train_loss: 1.073 time taken 3.837 min
+2023-12-16 17:19:02,723 - INFO - epoch 45 -> batch : 2000   train_loss: 1.069 time taken 3.769 min
+2023-12-16 17:22:48,789 - INFO - epoch 45 -> batch : 3000   train_loss: 1.081 time taken 3.768 min
+2023-12-16 17:26:34,769 - INFO - epoch 45 -> batch : 4000   train_loss: 1.063 time taken 3.766 min
+2023-12-16 17:30:20,808 - INFO - epoch 45 -> batch : 5000   train_loss: 1.066 time taken 3.767 min
+2023-12-16 17:34:06,894 - INFO - epoch 45 -> batch : 6000   train_loss: 1.068 time taken 3.768 min
+2023-12-16 17:37:52,856 - INFO - epoch 45 -> batch : 7000   train_loss: 1.066 time taken 3.766 min
+2023-12-16 17:41:38,878 - INFO - epoch 45 -> batch : 8000   train_loss: 1.074 time taken 3.767 min
+2023-12-16 17:45:24,929 - INFO - epoch 45 -> batch : 9000   train_loss: 1.085 time taken 3.767 min
+2023-12-16 17:49:11,066 - INFO - epoch 45 -> batch : 10000   train_loss: 1.075 time taken 3.769 min
+2023-12-16 17:50:55,499 - INFO - epoch 45 result: loss: 1.0719243068140107 accuracy: 72.09832910151448 valid_loss: 1.9713947202848352
+2023-12-16 17:50:56,404 - INFO -  starting training epoch 46 with lr 1.0000000000000002e-06
+2023-12-16 17:54:46,754 - INFO - epoch 46 -> batch : 1000   train_loss: 1.066 time taken 3.839 min
+2023-12-16 17:58:32,951 - INFO - epoch 46 -> batch : 2000   train_loss: 1.067 time taken 3.770 min
+2023-12-16 18:02:19,226 - INFO - epoch 46 -> batch : 3000   train_loss: 1.066 time taken 3.771 min
+2023-12-16 18:06:05,322 - INFO - epoch 46 -> batch : 4000   train_loss: 1.074 time taken 3.768 min
+2023-12-16 18:09:51,535 - INFO - epoch 46 -> batch : 5000   train_loss: 1.070 time taken 3.770 min
+2023-12-16 18:13:37,707 - INFO - epoch 46 -> batch : 6000   train_loss: 1.068 time taken 3.770 min
+2023-12-16 18:17:23,909 - INFO - epoch 46 -> batch : 7000   train_loss: 1.065 time taken 3.770 min
+2023-12-16 18:21:08,073 - INFO - epoch 46 -> batch : 8000   train_loss: 1.073 time taken 3.736 min
+2023-12-16 18:24:50,669 - INFO - epoch 46 -> batch : 9000   train_loss: 1.063 time taken 3.710 min
+2023-12-16 18:28:33,411 - INFO - epoch 46 -> batch : 10000   train_loss: 1.070 time taken 3.712 min
+2023-12-16 18:30:16,969 - INFO - epoch 46 result: loss: 1.0684170053674504 accuracy: 72.20580923486165 valid_loss: 1.9669496946017762
+2023-12-16 18:30:17,884 - INFO -  starting training epoch 47 with lr 1.0000000000000002e-06
+2023-12-16 18:34:08,431 - INFO - epoch 47 -> batch : 1000   train_loss: 1.069 time taken 3.842 min
+2023-12-16 18:37:53,488 - INFO - epoch 47 -> batch : 2000   train_loss: 1.071 time taken 3.751 min
+2023-12-16 18:41:36,364 - INFO - epoch 47 -> batch : 3000   train_loss: 1.072 time taken 3.715 min
+2023-12-16 18:45:19,874 - INFO - epoch 47 -> batch : 4000   train_loss: 1.062 time taken 3.725 min
+2023-12-16 18:49:03,464 - INFO - epoch 47 -> batch : 5000   train_loss: 1.066 time taken 3.726 min
+2023-12-16 18:52:47,727 - INFO - epoch 47 -> batch : 6000   train_loss: 1.063 time taken 3.738 min
+2023-12-16 18:56:33,841 - INFO - epoch 47 -> batch : 7000   train_loss: 1.066 time taken 3.769 min
+2023-12-16 19:00:19,955 - INFO - epoch 47 -> batch : 8000   train_loss: 1.066 time taken 3.769 min
+2023-12-16 19:04:06,118 - INFO - epoch 47 -> batch : 9000   train_loss: 1.072 time taken 3.769 min
+2023-12-16 19:07:52,306 - INFO - epoch 47 -> batch : 10000   train_loss: 1.066 time taken 3.770 min
+2023-12-16 19:09:36,193 - INFO - epoch 47 result: loss: 1.0675073905007824 accuracy: 72.20245291987696 valid_loss: 1.968171914215283
+2023-12-16 19:09:37,104 - INFO -  starting training epoch 48 with lr 1.0000000000000002e-06
+2023-12-16 19:13:27,492 - INFO - epoch 48 -> batch : 1000   train_loss: 1.065 time taken 3.840 min
+2023-12-16 19:17:13,748 - INFO - epoch 48 -> batch : 2000   train_loss: 1.063 time taken 3.771 min
+2023-12-16 19:20:59,036 - INFO - epoch 48 -> batch : 3000   train_loss: 1.069 time taken 3.755 min
+2023-12-16 19:24:42,763 - INFO - epoch 48 -> batch : 4000   train_loss: 1.069 time taken 3.729 min
+2023-12-16 19:28:26,408 - INFO - epoch 48 -> batch : 5000   train_loss: 1.079 time taken 3.727 min
+2023-12-16 19:32:11,364 - INFO - epoch 48 -> batch : 6000   train_loss: 1.064 time taken 3.749 min
+2023-12-16 19:35:57,608 - INFO - epoch 48 -> batch : 7000   train_loss: 1.069 time taken 3.771 min
+2023-12-16 19:39:43,857 - INFO - epoch 48 -> batch : 8000   train_loss: 1.065 time taken 3.771 min
+2023-12-16 19:43:30,109 - INFO - epoch 48 -> batch : 9000   train_loss: 1.068 time taken 3.771 min
+2023-12-16 19:47:16,333 - INFO - epoch 48 -> batch : 10000   train_loss: 1.060 time taken 3.770 min
+2023-12-16 19:48:58,665 - INFO - epoch 48 result: loss: 1.0671045123518526 accuracy: 72.22821068603858 valid_loss: 1.9688073811323747
+2023-12-16 19:48:59,585 - INFO -  starting training epoch 49 with lr 1.0000000000000002e-06
+2023-12-16 19:52:49,984 - INFO - epoch 49 -> batch : 1000   train_loss: 1.067 time taken 3.840 min
+2023-12-16 19:56:36,163 - INFO - epoch 49 -> batch : 2000   train_loss: 1.066 time taken 3.770 min
+2023-12-16 20:00:22,374 - INFO - epoch 49 -> batch : 3000   train_loss: 1.067 time taken 3.770 min
+2023-12-16 20:04:08,625 - INFO - epoch 49 -> batch : 4000   train_loss: 1.071 time taken 3.771 min
+2023-12-16 20:07:54,729 - INFO - epoch 49 -> batch : 5000   train_loss: 1.070 time taken 3.768 min
+2023-12-16 20:11:40,883 - INFO - epoch 49 -> batch : 6000   train_loss: 1.063 time taken 3.769 min
+2023-12-16 20:15:26,989 - INFO - epoch 49 -> batch : 7000   train_loss: 1.070 time taken 3.768 min
+2023-12-16 20:19:13,055 - INFO - epoch 49 -> batch : 8000   train_loss: 1.068 time taken 3.768 min
+2023-12-16 20:22:59,110 - INFO - epoch 49 -> batch : 9000   train_loss: 1.075 time taken 3.768 min
+2023-12-16 20:26:45,252 - INFO - epoch 49 -> batch : 10000   train_loss: 1.065 time taken 3.769 min
+2023-12-16 20:28:29,197 - INFO - epoch 49 result: loss: 1.0681807513063128 accuracy: 72.22766430918061 valid_loss: 1.9694566940102736
+2023-12-17 11:59:03,978 - INFO -  starting training epoch 50 with lr 1.0000000000000002e-06
+2023-12-17 12:02:52,184 - INFO - epoch 50 -> batch : 1000   train_loss: 1.062 time taken 3.803 min
+2023-12-17 12:06:40,260 - INFO - epoch 50 -> batch : 2000   train_loss: 1.066 time taken 3.801 min
+2023-12-17 12:10:23,649 - INFO - epoch 50 -> batch : 3000   train_loss: 1.068 time taken 3.723 min
